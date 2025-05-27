@@ -1,2154 +1,240 @@
 make,model,season,mean_price_make_model_season
-Acura,CL,Fruehling,1637.5
-Acura,CL,Sommer,1458.8235294117646
-Acura,CL,Winter,2093.8596491228072
-Acura,ILX,Fruehling,19136.363636363636
-Acura,ILX,Sommer,18281.81818181818
-Acura,ILX,Winter,19056.666666666668
-Acura,Integra,Fruehling,1333.3333333333333
-Acura,Integra,Sommer,791.6666666666666
-Acura,Integra,Winter,1187.037037037037
-Acura,Legend,Fruehling,537.5
-Acura,Legend,Sommer,300.0
-Acura,Legend,Winter,666.6666666666666
-Acura,MDX,Fruehling,14298.058252427185
-Acura,MDX,Sommer,17057.772020725388
-Acura,MDX,Winter,15592.861205915813
-Acura,RDX,Fruehling,17900.0
-Acura,RDX,Sommer,17965.573770491803
-Acura,RDX,Winter,18593.31683168317
-Acura,RL,Fruehling,5842.307692307692
-Acura,RL,Sommer,3985.714285714286
-Acura,RL,Winter,5020.220588235294
-Acura,RLX,Fruehling,32500.0
-Acura,RLX,Sommer,24425.0
-Acura,RLX,Winter,31565.0
-Acura,RSX,Fruehling,5967.5
-Acura,RSX,Sommer,4210.0
-Acura,RSX,Winter,4258.0
-Acura,TL,Fruehling,10141.143911439114
-Acura,TL,Sommer,10380.786026200873
-Acura,TL,Winter,11034.070247933885
-Acura,TLX,Sommer,26200.0
-Acura,TSX,Fruehling,12623.660714285714
-Acura,TSX,Sommer,11689.903846153846
-Acura,TSX,Winter,14179.741379310344
-Acura,TSX Sport Wagon,Fruehling,21750.0
-Acura,TSX Sport Wagon,Sommer,17907.14285714286
-Acura,TSX Sport Wagon,Winter,18535.0
-Acura,ZDX,Fruehling,26816.666666666668
-Acura,ZDX,Sommer,24690.0
-Acura,ZDX,Winter,26714.285714285714
-Acura,mdx,Fruehling,23000.0
-Aston Martin,DB9,Fruehling,51000.0
-Aston Martin,DB9,Winter,51200.0
-Aston Martin,Rapide,Winter,98750.0
-Aston Martin,V8 Vantage,Fruehling,47250.0
-Aston Martin,V8 Vantage,Sommer,55714.28571428572
-Aston Martin,V8 Vantage,Winter,49000.0
-Audi,A3,Fruehling,15990.322580645161
-Audi,A3,Sommer,15783.783783783783
-Audi,A3,Winter,15297.03947368421
-Audi,A4,Fruehling,12011.893203883496
-Audi,A4,Sommer,13848.684210526315
-Audi,A4,Winter,11917.9067077872
-Audi,A5,Fruehling,23977.380952380954
-Audi,A5,Sommer,25516.417910447763
-Audi,A5,Winter,24889.432989690722
-Audi,A6,Fruehling,14625.438596491229
-Audi,A6,Sommer,21498.046875
-Audi,A6,Winter,16897.584269662922
-Audi,A7,Fruehling,41852.94117647059
-Audi,A7,Sommer,42777.77777777778
-Audi,A7,Winter,42374.137931034486
-Audi,A8,Fruehling,27051.315789473683
-Audi,A8,Sommer,34385.10638297872
-Audi,A8,Winter,25713.39285714286
-Audi,Q3,Sommer,30400.0
-Audi,Q5,Fruehling,27492.753623188404
-Audi,Q5,Sommer,27448.71794871795
-Audi,Q5,Winter,26830.58035714286
-Audi,Q7,Fruehling,24395.070422535213
-Audi,Q7,Sommer,30932.317073170732
-Audi,Q7,Winter,25889.42731277533
-Audi,R8,Fruehling,103625.0
-Audi,R8,Sommer,89975.0
-Audi,R8,Winter,90184.21052631579
-Audi,RS 4,Sommer,27600.0
-Audi,RS 4,Winter,23000.0
-Audi,RS 5,Fruehling,53000.0
-Audi,RS 5,Sommer,57500.0
-Audi,RS 5,Winter,58464.28571428572
-Audi,RS 6,Fruehling,14750.0
-Audi,RS 6,Sommer,13866.666666666666
-Audi,RS 6,Winter,11700.0
-Audi,RS 7,Sommer,101600.0
-Audi,RS 7,Winter,102600.0
-Audi,S4,Fruehling,26340.384615384617
-Audi,S4,Sommer,24701.5625
-Audi,S4,Winter,20971.36752136752
-Audi,S5,Fruehling,29888.235294117647
-Audi,S5,Sommer,32006.451612903227
-Audi,S5,Winter,33675.97402597403
-Audi,S6,Fruehling,54600.0
-Audi,S6,Sommer,30250.0
-Audi,S6,Winter,18230.76923076923
-Audi,S7,Sommer,67233.33333333333
-Audi,S7,Winter,68387.5
-Audi,S8,Fruehling,69500.0
-Audi,S8,Sommer,84100.0
-Audi,S8,Winter,38350.0
-Audi,SQ5,Fruehling,50000.0
-Audi,SQ5,Sommer,46900.0
-Audi,SQ5,Winter,47500.0
-Audi,TT,Fruehling,8846.551724137931
-Audi,TT,Sommer,10850.0
-Audi,TT,Winter,8899.358974358975
-Audi,TT RS,Fruehling,47400.0
-Audi,TT RS,Sommer,44500.0
-Audi,TT RS,Winter,42500.0
-Audi,TTS,Fruehling,36700.0
-Audi,TTS,Sommer,22000.0
-Audi,TTS,Winter,38783.333333333336
-Audi,allroad,Fruehling,31300.0
-Audi,allroad,Sommer,30958.333333333332
-Audi,allroad,Winter,34000.0
-Audi,allroad quattro,Fruehling,2000.0
-Audi,allroad quattro,Sommer,550.0
-Audi,allroad quattro,Winter,2948.2758620689656
-BMW,1 Series,Fruehling,20530.303030303032
-BMW,1 Series,Sommer,18268.89534883721
-BMW,1 Series,Winter,19231.542056074766
-BMW,2 Series,Fruehling,40000.0
-BMW,2 Series,Sommer,38991.666666666664
-BMW,2 Series,Winter,37680.769230769234
-BMW,3 Series,Fruehling,15560.641461342397
-BMW,3 Series,Sommer,19097.22695584818
-BMW,3 Series,Winter,16541.47083246834
-BMW,3 Series Gran Turismo,Fruehling,39016.666666666664
-BMW,3 Series Gran Turismo,Sommer,40593.10344827586
-BMW,3 Series Gran Turismo,Winter,37848.61111111111
-BMW,4 Series,Fruehling,43142.10526315789
-BMW,4 Series,Sommer,45293.45238095238
-BMW,4 Series,Winter,41044.41340782123
-BMW,4 Series Gran Coupe,Sommer,44233.333333333336
-BMW,5 Series,Fruehling,20011.497326203207
-BMW,5 Series,Sommer,24089.865871833084
-BMW,5 Series,Winter,20376.981576692375
-BMW,5 Series Gran Turismo,Fruehling,31986.363636363636
-BMW,5 Series Gran Turismo,Sommer,33799.32432432433
-BMW,5 Series Gran Turismo,Winter,37568.63636363636
-BMW,6 Series,Fruehling,30325.8064516129
-BMW,6 Series,Sommer,34368.87755102041
-BMW,6 Series,Winter,34211.57289002558
-BMW,6 Series Gran Coupe,Fruehling,51900.0
-BMW,6 Series Gran Coupe,Sommer,54070.3125
-BMW,6 Series Gran Coupe,Winter,59238.23684210526
-BMW,7 Series,Fruehling,18051.315789473683
-BMW,7 Series,Sommer,19250.710227272728
-BMW,7 Series,Winter,16861.23287671233
-BMW,8 Series,Fruehling,6750.0
-BMW,ActiveHybrid 5,Winter,27625.0
-BMW,ActiveHybrid 7,Fruehling,35450.0
-BMW,ActiveHybrid 7,Sommer,35066.666666666664
-BMW,ActiveHybrid 7,Winter,48416.666666666664
-BMW,ActiveHybrid X6,Fruehling,23000.0
-BMW,ActiveHybrid X6,Winter,28850.0
-BMW,M,Fruehling,10200.0
-BMW,M,Sommer,10333.333333333334
-BMW,M,Winter,10400.0
-BMW,M3,Fruehling,32660.29411764706
-BMW,M3,Sommer,28900.0
-BMW,M3,Winter,30313.31868131868
-BMW,M4,Fruehling,68933.33333333333
-BMW,M4,Sommer,70550.0
-BMW,M4,Winter,64000.0
-BMW,M5,Fruehling,44566.75
-BMW,M5,Sommer,42666.0
-BMW,M5,Winter,43759.31481481482
-BMW,M6,Fruehling,67110.0
-BMW,M6,Sommer,68188.0
-BMW,M6,Winter,51059.21052631579
-BMW,M6 Gran Coupe,Fruehling,87000.0
-BMW,M6 Gran Coupe,Sommer,87533.33333333333
-BMW,M6 Gran Coupe,Winter,94383.33333333333
-BMW,X1,Fruehling,28529.62962962963
-BMW,X1,Sommer,28164.61038961039
-BMW,X1,Winter,29508.064516129034
-BMW,X3,Fruehling,15680.873493975903
-BMW,X3,Sommer,18086.40350877193
-BMW,X3,Winter,17807.70089285714
-BMW,X4,Fruehling,52600.0
-BMW,X4,Sommer,51375.0
-BMW,X5,Fruehling,22131.501547987617
-BMW,X5,Sommer,25391.20253164557
-BMW,X5,Winter,21318.7893081761
-BMW,X5 M,Fruehling,45741.666666666664
-BMW,X5 M,Sommer,45500.0
-BMW,X5 M,Winter,46557.142857142855
-BMW,X6,Fruehling,35883.78378378379
-BMW,X6,Sommer,39003.260869565216
-BMW,X6,Winter,40133.06451612903
-BMW,X6 M,Fruehling,56600.0
-BMW,X6 M,Sommer,59942.857142857145
-BMW,X6 M,Winter,57512.5
-BMW,Z3,Fruehling,4866.666666666667
-BMW,Z3,Sommer,4483.333333333333
-BMW,Z3,Winter,4790.243902439024
-BMW,Z4,Fruehling,17955.28846153846
-BMW,Z4,Sommer,21807.843137254902
-BMW,Z4,Winter,24924.310344827587
-BMW,Z4 M,Sommer,20625.0
-BMW,Z4 M,Winter,20083.333333333332
-BMW,i8,Sommer,140000.0
-BMW,i8,Winter,161333.33333333334
-Bentley,Continental Flying Spur,Fruehling,62250.0
-Bentley,Continental Flying Spur,Sommer,75750.0
-Bentley,Continental Flying Spur,Winter,56022.72727272727
-Bentley,Continental Flying Spur Speed,Sommer,106500.0
-Bentley,Continental Flying Spur Speed,Winter,105000.0
-Bentley,Continental GT,Fruehling,64490.0
-Bentley,Continental GT,Sommer,70253.33333333333
-Bentley,Continental GT,Winter,62455.0
-Bentley,Continental GT Speed,Winter,79750.0
-Bentley,Continental GTC,Fruehling,89357.14285714286
-Bentley,Continental GTC,Sommer,81114.28571428571
-Bentley,Continental GTC,Winter,93343.75
-Bentley,Continental GTC Speed,Winter,111000.0
-Bentley,Continental Supersports,Winter,101000.0
-Buick,Century,Fruehling,1295.5128205128206
-Buick,Century,Sommer,1582.6923076923076
-Buick,Century,Winter,1573.103448275862
-Buick,Enclave,Fruehling,20288.75
-Buick,Enclave,Sommer,19470.344827586207
-Buick,Enclave,Winter,18020.016339869282
-Buick,Encore,Fruehling,18275.0
-Buick,Encore,Sommer,18490.1
-Buick,Encore,Winter,18974.468085106382
-Buick,LaCrosse,Fruehling,12763.516746411484
-Buick,LaCrosse,Sommer,13742.780373831776
-Buick,LaCrosse,Winter,11591.416024653312
-Buick,LeSabre,Fruehling,2051.0752688172042
-Buick,LeSabre,Sommer,1811.842105263158
-Buick,LeSabre,Winter,2043.8271604938273
-Buick,Lucerne,Fruehling,6673.9795918367345
-Buick,Lucerne,Sommer,6367.625
-Buick,Lucerne,Winter,6539.9671052631575
-Buick,Park Avenue,Fruehling,1428.5714285714287
-Buick,Park Avenue,Sommer,1670.8333333333333
-Buick,Park Avenue,Winter,1702.2435897435898
-Buick,Rainier,Fruehling,3335.294117647059
-Buick,Rainier,Sommer,3750.0
-Buick,Rainier,Winter,3413.1147540983607
-Buick,Regal,Fruehling,12372.772277227723
-Buick,Regal,Sommer,12081.122448979591
-Buick,Regal,Winter,10467.301886792453
-Buick,Rendezvous,Fruehling,2059.8039215686276
-Buick,Rendezvous,Sommer,2924.358974358974
-Buick,Rendezvous,Winter,2991.8478260869565
-Buick,Riviera,Fruehling,1050.0
-Buick,Riviera,Winter,2125.0
-Buick,Roadmaster,Winter,2116.6666666666665
-Buick,Terraza,Fruehling,3253.5714285714284
-Buick,Terraza,Sommer,3500.0
-Buick,Terraza,Winter,3301.5625
-Buick,Verano,Fruehling,13347.222222222223
-Buick,Verano,Sommer,13589.473684210527
-Buick,Verano,Winter,12769.783582089553
-Cadillac,ATS,Fruehling,21746.875
-Cadillac,ATS,Sommer,21515.423076923078
-Cadillac,ATS,Winter,20150.027027027027
-Cadillac,CTS,Fruehling,10079.86798679868
-Cadillac,CTS,Sommer,12203.97489539749
-Cadillac,CTS,Winter,9706.913157894736
-Cadillac,CTS Coupe,Fruehling,23025.0
-Cadillac,CTS Coupe,Sommer,23626.470588235294
-Cadillac,CTS Coupe,Winter,22427.397260273974
-Cadillac,CTS Wagon,Fruehling,20583.333333333332
-Cadillac,CTS Wagon,Sommer,13750.0
-Cadillac,CTS Wagon,Winter,17475.0
-Cadillac,CTS-V,Fruehling,30020.0
-Cadillac,CTS-V,Sommer,26075.0
-Cadillac,CTS-V,Winter,23177.777777777777
-Cadillac,CTS-V Coupe,Fruehling,38225.0
-Cadillac,CTS-V Coupe,Sommer,39312.5
-Cadillac,CTS-V Coupe,Winter,38369.52631578947
-Cadillac,CTS-V Wagon,Winter,50500.0
-Cadillac,Catera,Fruehling,750.0
-Cadillac,Catera,Sommer,1716.6666666666667
-Cadillac,Catera,Winter,929.3478260869565
-Cadillac,DTS,Fruehling,7446.470588235294
-Cadillac,DTS,Sommer,7237.662337662337
-Cadillac,DTS,Winter,7234.281437125748
-Cadillac,DeVille,Fruehling,1687.81512605042
-Cadillac,DeVille,Sommer,1816.826923076923
-Cadillac,DeVille,Winter,1805.1869158878505
-Cadillac,ELR,Sommer,37925.0
-Cadillac,ELR,Winter,44000.0
-Cadillac,Eldorado,Fruehling,1175.0
-Cadillac,Eldorado,Sommer,1450.0
-Cadillac,Eldorado,Winter,2115.243902439024
-Cadillac,Escalade,Fruehling,24164.285714285714
-Cadillac,Escalade,Sommer,27152.710843373494
-Cadillac,Escalade,Winter,19505.681222707422
-Cadillac,Escalade ESV,Fruehling,26002.345794392524
-Cadillac,Escalade ESV,Sommer,28581.25
-Cadillac,Escalade ESV,Winter,22821.470588235294
-Cadillac,Escalade EXT,Fruehling,20219.04761904762
-Cadillac,Escalade EXT,Sommer,17887.5
-Cadillac,Escalade EXT,Winter,16705.913978494624
-Cadillac,Escalade Hybrid,Fruehling,27064.285714285714
-Cadillac,Escalade Hybrid,Sommer,27225.0
-Cadillac,Escalade Hybrid,Winter,25909.615384615383
-Cadillac,SRX,Fruehling,19045.530726256984
-Cadillac,SRX,Sommer,20708.14534883721
-Cadillac,SRX,Winter,19455.310030395136
-Cadillac,STS,Fruehling,7094.736842105263
-Cadillac,STS,Sommer,6632.758620689655
-Cadillac,STS,Winter,6839.226519337017
-Cadillac,STS-V,Fruehling,15900.0
-Cadillac,STS-V,Winter,13937.5
-Cadillac,Seville,Fruehling,1197.1153846153845
-Cadillac,Seville,Sommer,1239.0625
-Cadillac,Seville,Winter,1422.767857142857
-Cadillac,XLR,Fruehling,17610.0
-Cadillac,XLR,Sommer,23533.333333333332
-Cadillac,XLR,Winter,15919.23076923077
-Cadillac,XTS,Fruehling,30677.272727272728
-Cadillac,XTS,Sommer,31341.071428571428
-Cadillac,XTS,Winter,29233.585714285713
-Chevrolet,Astro,Fruehling,2950.0
-Chevrolet,Astro,Sommer,2180.0
-Chevrolet,Astro,Winter,2010.483870967742
-Chevrolet,Astro Cargo,Fruehling,2158.3333333333335
-Chevrolet,Astro Cargo,Sommer,1016.6666666666666
-Chevrolet,Astro Cargo,Winter,2236.764705882353
-Chevrolet,Avalanche,Fruehling,13252.590673575129
-Chevrolet,Avalanche,Sommer,14884.036144578313
-Chevrolet,Avalanche,Winter,12998.65629420085
-Chevrolet,Aveo,Fruehling,3443.8931297709923
-Chevrolet,Aveo,Sommer,3605.5045871559632
-Chevrolet,Aveo,Winter,3517.4852652259333
-Chevrolet,Black Diamond Avalanche,Fruehling,37500.0
-Chevrolet,Black Diamond Avalanche,Sommer,35688.88888888889
-Chevrolet,Black Diamond Avalanche,Winter,33152.0
-Chevrolet,Blazer,Fruehling,1100.0
-Chevrolet,Blazer,Sommer,1005.2325581395348
-Chevrolet,Blazer,Winter,1104.4117647058824
-Chevrolet,C/K 1500 Series,Fruehling,3381.25
-Chevrolet,C/K 1500 Series,Sommer,2350.0
-Chevrolet,C/K 1500 Series,Winter,1811.764705882353
-Chevrolet,C/K 2500 Series,Winter,1850.0
-Chevrolet,C/K 3500 Series,Sommer,5400.0
-Chevrolet,C/K 3500 Series,Winter,2866.6666666666665
-Chevrolet,Camaro,Fruehling,20214.606741573032
-Chevrolet,Camaro,Sommer,20423.291666666668
-Chevrolet,Camaro,Winter,18663.646153846155
-Chevrolet,Caprice,Fruehling,400.0
-Chevrolet,Caprice,Sommer,375.0
-Chevrolet,Caprice,Winter,1058.3333333333333
-Chevrolet,Captiva Sport,Fruehling,13888.315217391304
-Chevrolet,Captiva Sport,Sommer,12807.503401360544
-Chevrolet,Captiva Sport,Winter,13577.167820069204
-Chevrolet,Cavalier,Fruehling,1050.7692307692307
-Chevrolet,Cavalier,Sommer,852.9069767441861
-Chevrolet,Cavalier,Winter,986.6071428571429
-Chevrolet,Classic,Fruehling,1762.5
-Chevrolet,Classic,Sommer,960.0
-Chevrolet,Classic,Winter,1693.125
-Chevrolet,Cobalt,Fruehling,3355.9963099630995
-Chevrolet,Cobalt,Sommer,3306.5533980582522
-Chevrolet,Cobalt,Winter,3498.2964601769913
-Chevrolet,Colorado,Fruehling,8327.604166666666
-Chevrolet,Colorado,Sommer,10078.688524590163
-Chevrolet,Colorado,Winter,8782.542694497153
-Chevrolet,Corsica,Winter,350.0
-Chevrolet,Corvette,Fruehling,30220.58823529412
-Chevrolet,Corvette,Sommer,26751.40186915888
-Chevrolet,Corvette,Winter,26245.409961685822
-Chevrolet,Corvette Stingray,Fruehling,56283.333333333336
-Chevrolet,Corvette Stingray,Sommer,53526.470588235294
-Chevrolet,Corvette Stingray,Winter,55930.26315789474
-Chevrolet,Cruze,Fruehling,11516.785171102661
-Chevrolet,Cruze,Sommer,10868.75170399221
-Chevrolet,Cruze,Winter,11179.951372315036
-Chevrolet,Equinox,Fruehling,12869.70093457944
-Chevrolet,Equinox,Sommer,12860.619638826185
-Chevrolet,Equinox,Winter,11647.475595913735
-Chevrolet,Express,Fruehling,17296.283582089553
-Chevrolet,Express,Sommer,18962.81395348837
-Chevrolet,Express,Winter,16474.03846153846
-Chevrolet,Express Cargo,Fruehling,10099.184782608696
-Chevrolet,Express Cargo,Sommer,9556.018518518518
-Chevrolet,Express Cargo,Winter,8789.914772727272
-Chevrolet,HHR,Fruehling,5269.047619047619
-Chevrolet,HHR,Sommer,5140.361445783133
-Chevrolet,HHR,Winter,4975.175070028011
-Chevrolet,Impala,Fruehling,8516.779766001377
-Chevrolet,Impala,Sommer,8618.45885841364
-Chevrolet,Impala,Winter,7531.057261410789
-Chevrolet,Impala Limited,Fruehling,14114.55938697318
-Chevrolet,Impala Limited,Sommer,13998.706896551725
-Chevrolet,Impala Limited,Winter,13681.046268656717
-Chevrolet,Lumina,Fruehling,821.875
-Chevrolet,Lumina,Sommer,700.0
-Chevrolet,Lumina,Winter,699.2647058823529
-Chevrolet,Malibu,Fruehling,9329.657798165137
-Chevrolet,Malibu,Sommer,9654.097137014314
-Chevrolet,Malibu,Winter,8702.560075241006
-Chevrolet,Malibu Classic,Fruehling,2633.3333333333335
-Chevrolet,Malibu Classic,Sommer,1900.0
-Chevrolet,Malibu Classic,Winter,3219.3548387096776
-Chevrolet,Malibu Hybrid,Fruehling,4750.0
-Chevrolet,Malibu Hybrid,Sommer,5340.0
-Chevrolet,Malibu Hybrid,Winter,5347.058823529412
-Chevrolet,Malibu Maxx,Fruehling,2354.3478260869565
-Chevrolet,Malibu Maxx,Sommer,2247.222222222222
-Chevrolet,Malibu Maxx,Winter,2794.8
-Chevrolet,Monte Carlo,Fruehling,2648.7903225806454
-Chevrolet,Monte Carlo,Sommer,2453.125
-Chevrolet,Monte Carlo,Winter,2551.6187050359713
-Chevrolet,Prizm,Fruehling,900.0
-Chevrolet,Prizm,Sommer,2183.3333333333335
-Chevrolet,Prizm,Winter,1129.5454545454545
-Chevrolet,S-10,Fruehling,2791.025641025641
-Chevrolet,S-10,Sommer,3091.304347826087
-Chevrolet,S-10,Winter,2532.5342465753424
-Chevrolet,S-10 Blazer,Fruehling,500.0
-Chevrolet,S-10 Blazer,Sommer,400.0
-Chevrolet,S-10 Blazer,Winter,900.0
-Chevrolet,SS,Fruehling,36100.0
-Chevrolet,SS,Sommer,35550.0
-Chevrolet,SS,Winter,35130.0
-Chevrolet,SSR,Fruehling,18350.0
-Chevrolet,SSR,Sommer,21620.0
-Chevrolet,SSR,Winter,16953.125
-Chevrolet,Silverado 1500,Fruehling,17172.52930056711
-Chevrolet,Silverado 1500,Sommer,18130.62634989201
-Chevrolet,Silverado 1500,Winter,16116.298200514138
-Chevrolet,Silverado 1500 Classic,Fruehling,7631.0344827586205
-Chevrolet,Silverado 1500 Classic,Sommer,9394.827586206897
-Chevrolet,Silverado 1500 Classic,Winter,8390.495867768595
-Chevrolet,Silverado 1500 Hybrid,Sommer,18800.0
-Chevrolet,Silverado 1500 Hybrid,Winter,17600.0
-Chevrolet,Silverado 1500HD,Fruehling,7475.0
-Chevrolet,Silverado 1500HD,Sommer,6840.0
-Chevrolet,Silverado 1500HD,Winter,7653.225806451613
-Chevrolet,Silverado 2500,Fruehling,4590.0
-Chevrolet,Silverado 2500,Sommer,9050.0
-Chevrolet,Silverado 2500,Winter,6343.333333333333
-Chevrolet,Silverado 2500HD,Fruehling,20606.008583690986
-Chevrolet,Silverado 2500HD,Sommer,21823.387096774193
-Chevrolet,Silverado 2500HD,Winter,20018.939909297053
-Chevrolet,Silverado 2500HD Classic,Fruehling,10900.0
-Chevrolet,Silverado 2500HD Classic,Sommer,12227.777777777777
-Chevrolet,Silverado 2500HD Classic,Winter,16270.0
-Chevrolet,Silverado 3500,Fruehling,17737.5
-Chevrolet,Silverado 3500,Sommer,12000.0
-Chevrolet,Silverado 3500,Winter,15077.083333333334
-Chevrolet,Silverado 3500 Classic,Sommer,15000.0
-Chevrolet,Silverado 3500 Classic,Winter,15250.0
-Chevrolet,Silverado 3500HD,Fruehling,28558.620689655174
-Chevrolet,Silverado 3500HD,Sommer,33005.0
-Chevrolet,Silverado 3500HD,Winter,30976.59574468085
-Chevrolet,Sonic,Fruehling,9520.807606263983
-Chevrolet,Sonic,Sommer,8768.18274111675
-Chevrolet,Sonic,Winter,9129.428385416666
-Chevrolet,Spark,Fruehling,8448.550724637682
-Chevrolet,Spark,Sommer,7623.202898550725
-Chevrolet,Spark,Winter,7987.429378531074
-Chevrolet,Spark EV,Fruehling,12000.0
-Chevrolet,Spark EV,Sommer,11000.0
-Chevrolet,Suburban,Fruehling,21834.707616707616
-Chevrolet,Suburban,Sommer,21349.91472868217
-Chevrolet,Suburban,Winter,18633.90498034076
-Chevrolet,Tahoe,Fruehling,18979.39539748954
-Chevrolet,Tahoe,Sommer,20177.812356979404
-Chevrolet,Tahoe,Winter,17069.899164054335
-Chevrolet,Tahoe Hybrid,Fruehling,14383.333333333334
-Chevrolet,Tahoe Hybrid,Sommer,13400.0
-Chevrolet,Tahoe Hybrid,Winter,13811.764705882353
-Chevrolet,Tahoe Limited/Z71,Fruehling,1550.0
-Chevrolet,Tahoe Limited/Z71,Winter,1047.2222222222222
-Chevrolet,Tracker,Fruehling,1650.0
-Chevrolet,Tracker,Sommer,1695.4545454545455
-Chevrolet,Tracker,Winter,1865.1515151515152
-Chevrolet,TrailBlazer,Fruehling,4314.467005076142
-Chevrolet,TrailBlazer,Sommer,4382.112068965517
-Chevrolet,TrailBlazer,Winter,4384.903846153846
-Chevrolet,TrailBlazer EXT,Fruehling,3300.0
-Chevrolet,TrailBlazer EXT,Sommer,3500.0
-Chevrolet,TrailBlazer EXT,Winter,3461.8705035971225
-Chevrolet,Traverse,Fruehling,17111.458333333332
-Chevrolet,Traverse,Sommer,17884.358288770054
-Chevrolet,Traverse,Winter,15735.279069767443
-Chevrolet,Uplander,Fruehling,3192.7272727272725
-Chevrolet,Uplander,Sommer,3509.3023255813955
-Chevrolet,Uplander,Winter,2765.692640692641
-Chevrolet,Venture,Fruehling,1117.361111111111
-Chevrolet,Venture,Sommer,1032.3529411764705
-Chevrolet,Venture,Winter,1064.5416666666667
-Chevrolet,Volt,Fruehling,13718.181818181818
-Chevrolet,Volt,Sommer,13020.93023255814
-Chevrolet,Volt,Winter,12777.54820936639
-Chevrolet,malibu,Fruehling,6780.0
-Chevrolet,malibu,Sommer,8250.0
-Chevrolet,malibu,Winter,7014.5161290322585
-Chrysler,200,Fruehling,11296.316614420062
-Chrysler,200,Sommer,11490.307397959185
-Chrysler,200,Winter,10661.581707845688
-Chrysler,300,Fruehling,12042.17162872154
-Chrysler,300,Sommer,13220.160958904109
-Chrysler,300,Winter,11454.178298063935
-Chrysler,300M,Fruehling,1137.5
-Chrysler,300M,Sommer,1850.0
-Chrysler,300M,Winter,1191.0714285714287
-Chrysler,Aspen,Fruehling,8517.241379310344
-Chrysler,Aspen,Sommer,8695.652173913044
-Chrysler,Aspen,Winter,8783.636363636364
-Chrysler,Cirrus,Fruehling,710.0
-Chrysler,Cirrus,Sommer,275.0
-Chrysler,Cirrus,Winter,707.3529411764706
-Chrysler,Concorde,Fruehling,946.4285714285714
-Chrysler,Concorde,Sommer,1263.888888888889
-Chrysler,Concorde,Winter,977.9761904761905
-Chrysler,Crossfire,Fruehling,5280.0
-Chrysler,Crossfire,Sommer,5745.454545454545
-Chrysler,Crossfire,Winter,5025.757575757576
-Chrysler,LHS,Fruehling,600.0
-Chrysler,LHS,Sommer,660.0
-Chrysler,LHS,Winter,909.6153846153846
-Chrysler,Le Baron,Winter,1200.0
-Chrysler,PT Cruiser,Fruehling,2344.9771689497716
-Chrysler,PT Cruiser,Sommer,2134.1463414634145
-Chrysler,PT Cruiser,Winter,2272.865099009901
-Chrysler,Pacifica,Fruehling,3838.8888888888887
-Chrysler,Pacifica,Sommer,3936.0
-Chrysler,Pacifica,Winter,3896.2837837837837
-Chrysler,Prowler,Sommer,28200.0
-Chrysler,Prowler,Winter,24800.0
-Chrysler,Sebring,Fruehling,3137.7125506072875
-Chrysler,Sebring,Sommer,3422.2039473684213
-Chrysler,Sebring,Winter,3073.6562150055993
-Chrysler,Town and Country,Fruehling,13874.334358974358
-Chrysler,Town and Country,Sommer,15598.490236382322
-Chrysler,Town and Country,Winter,13329.3734375
-Chrysler,Voyager,Fruehling,1100.0
-Chrysler,Voyager,Sommer,960.0
-Chrysler,Voyager,Winter,1444.4444444444443
-Daewoo,Leganza,Winter,300.0
-Daewoo,Nubira,Winter,450.0
-Dodge,Avenger,Fruehling,9147.687409551374
-Dodge,Avenger,Sommer,8972.137978142076
-Dodge,Avenger,Winter,9030.442485306465
-Dodge,Caliber,Fruehling,4748.744769874477
-Dodge,Caliber,Sommer,4853.821656050955
-Dodge,Caliber,Winter,4970.254237288135
-Dodge,Caravan,Fruehling,2074.390243902439
-Dodge,Caravan,Sommer,1565.1785714285713
-Dodge,Caravan,Winter,1849.8148148148148
-Dodge,Challenger,Fruehling,21076.222222222223
-Dodge,Challenger,Sommer,22114.761904761905
-Dodge,Challenger,Winter,20228.022658610273
-Dodge,Charger,Fruehling,13127.672530446549
-Dodge,Charger,Sommer,14040.622068965517
-Dodge,Charger,Winter,11979.482025512176
-Dodge,Dakota,Fruehling,5495.3448275862065
-Dodge,Dakota,Sommer,6441.803278688524
-Dodge,Dakota,Winter,5344.986263736264
-Dodge,Dart,Fruehling,11701.918032786885
-Dodge,Dart,Sommer,11500.859574468084
-Dodge,Dart,Winter,11683.23754789272
-Dodge,Durango,Fruehling,12132.851132686084
-Dodge,Durango,Sommer,17296.414342629483
-Dodge,Durango,Winter,13166.438879456706
-Dodge,Grand Caravan,Fruehling,11148.689201053556
-Dodge,Grand Caravan,Sommer,11540.26001780944
-Dodge,Grand Caravan,Winter,10903.144411887819
-Dodge,Intrepid,Fruehling,597.2222222222222
-Dodge,Intrepid,Sommer,547.5
-Dodge,Intrepid,Winter,632.7922077922078
-Dodge,Journey,Fruehling,12011.731207289295
-Dodge,Journey,Sommer,12910.464143426294
-Dodge,Journey,Winter,12063.125913434515
-Dodge,Magnum,Fruehling,4886.065573770492
-Dodge,Magnum,Sommer,3890.0
-Dodge,Magnum,Winter,4162.795275590551
-Dodge,Neon,Fruehling,1657.608695652174
-Dodge,Neon,Sommer,1693.75
-Dodge,Neon,Winter,1448.1818181818182
-Dodge,Nitro,Fruehling,8543.069306930693
-Dodge,Nitro,Sommer,8817.073170731708
-Dodge,Nitro,Winter,8904.987834549878
-Dodge,Ram Cargo,Winter,1166.6666666666667
-Dodge,Ram Pickup 1500,Fruehling,9639.798850574713
-Dodge,Ram Pickup 1500,Sommer,10278.062913907284
-Dodge,Ram Pickup 1500,Winter,9467.127825409198
-Dodge,Ram Pickup 2500,Fruehling,15430.952380952382
-Dodge,Ram Pickup 2500,Sommer,17031.756756756757
-Dodge,Ram Pickup 2500,Winter,15136.710963455149
-Dodge,Ram Pickup 3500,Fruehling,20654.255319148935
-Dodge,Ram Pickup 3500,Sommer,21387.878787878788
-Dodge,Ram Pickup 3500,Winter,17481.81818181818
-Dodge,Ram Van,Winter,1200.0
-Dodge,Spirit,Winter,300.0
-Dodge,Sprinter,Fruehling,8400.0
-Dodge,Sprinter,Winter,7000.0
-Dodge,Sprinter Cargo,Fruehling,8793.181818181818
-Dodge,Sprinter Cargo,Sommer,8608.333333333334
-Dodge,Sprinter Cargo,Winter,8164.0
-Dodge,Stratus,Fruehling,1318.867924528302
-Dodge,Stratus,Sommer,1224.21875
-Dodge,Stratus,Winter,1412.2448979591836
-Dodge,Viper,Fruehling,38233.333333333336
-Dodge,Viper,Sommer,42650.0
-Dodge,Viper,Winter,35125.0
-FIAT,500,Fruehling,8518.279569892473
-FIAT,500,Sommer,8511.29411764706
-FIAT,500,Winter,9122.118644067798
-FIAT,500L,Fruehling,11800.0
-FIAT,500L,Sommer,11682.894736842105
-FIAT,500L,Winter,12048.417721518987
-FIAT,500e,Fruehling,14750.0
-FIAT,500e,Winter,12900.0
-Ferrari,360,Sommer,81000.0
-Ferrari,458 Italia,Sommer,183000.0
-Ferrari,California,Fruehling,130750.0
-Ferrari,California,Sommer,120000.0
-Ferrari,California,Winter,138500.0
-Ferrari,F430,Fruehling,117000.0
-Ferrari,F430,Sommer,95500.0
-Fisker,Karma,Fruehling,45750.0
-Fisker,Karma,Sommer,45800.0
-Fisker,Karma,Winter,47000.0
-Ford,Aspire,Winter,500.0
-Ford,C-Max Energi,Fruehling,12841.02564102564
-Ford,C-Max Energi,Sommer,12700.0
-Ford,C-Max Energi,Winter,12005.389221556887
-Ford,C-Max Hybrid,Fruehling,15428.57142857143
-Ford,C-Max Hybrid,Sommer,13329.842105263158
-Ford,C-Max Hybrid,Winter,15755.91935483871
-Ford,Contour,Fruehling,525.0
-Ford,Contour,Sommer,250.0
-Ford,Contour,Winter,825.0
-Ford,Crown Victoria,Fruehling,2711.3636363636365
-Ford,Crown Victoria,Sommer,2934.6153846153848
-Ford,Crown Victoria,Winter,4128.174603174603
-Ford,E-150,Fruehling,400.0
-Ford,E-150,Winter,850.0
-Ford,E-250,Fruehling,1000.0
-Ford,E-350,Sommer,1200.0
-Ford,E-Series Van,Fruehling,19372.511848341233
-Ford,E-Series Van,Sommer,18875.100401606425
-Ford,E-Series Van,Winter,18731.386153846153
-Ford,E-Series Wagon,Fruehling,19095.833333333332
-Ford,E-Series Wagon,Sommer,18920.536842105263
-Ford,E-Series Wagon,Winter,19512.38923076923
-Ford,Econoline Cargo,Fruehling,4978.082191780822
-Ford,Econoline Cargo,Sommer,5584.883720930233
-Ford,Econoline Cargo,Winter,4517.886178861789
-Ford,Econoline Wagon,Fruehling,7723.529411764706
-Ford,Econoline Wagon,Sommer,8500.0
-Ford,Econoline Wagon,Winter,6719.53125
-Ford,Edge,Fruehling,19131.08904109589
-Ford,Edge,Sommer,18365.22073578595
-Ford,Edge,Winter,18763.11369268897
-Ford,Escape,Fruehling,14730.065217391304
-Ford,Escape,Sommer,14194.649425287356
-Ford,Escape,Winter,14060.897660818713
-Ford,Escape Hybrid,Fruehling,8675.862068965518
-Ford,Escape Hybrid,Sommer,7820.588235294118
-Ford,Escape Hybrid,Winter,9605.301204819278
-Ford,Escort,Fruehling,700.0
-Ford,Escort,Sommer,433.3333333333333
-Ford,Escort,Winter,629.2857142857143
-Ford,Excursion,Fruehling,9570.454545454546
-Ford,Excursion,Sommer,9384.615384615385
-Ford,Excursion,Winter,7773.837209302325
-Ford,Expedition,Fruehling,20047.313901345293
-Ford,Expedition,Sommer,22122.950819672133
-Ford,Expedition,Winter,16396.432825943084
-Ford,Expedition EL,Fruehling,12091.666666666666
-Ford,Expedition EL,Sommer,12040.0
-Ford,Expedition EL,Winter,12004.545454545454
-Ford,Explorer,Fruehling,20176.163214581607
-Ford,Explorer,Sommer,20422.127516778524
-Ford,Explorer,Winter,19032.482207697893
-Ford,Explorer Sport,Fruehling,1300.0
-Ford,Explorer Sport,Sommer,881.25
-Ford,Explorer Sport,Winter,1264.855072463768
-Ford,Explorer Sport Trac,Fruehling,7505.9701492537315
-Ford,Explorer Sport Trac,Sommer,8289.74358974359
-Ford,Explorer Sport Trac,Winter,8159.895833333333
-Ford,F-150,Fruehling,19950.694682675814
-Ford,F-150,Sommer,20851.855455833727
-Ford,F-150,Winter,18777.138090349075
-Ford,F-150 Heritage,Fruehling,3900.0
-Ford,F-150 Heritage,Sommer,3450.0
-Ford,F-150 Heritage,Winter,2780.769230769231
-Ford,F-150 SVT Lightning,Sommer,10200.0
-Ford,F-150 SVT Lightning,Winter,5525.0
-Ford,F-250 Super Duty,Fruehling,20094.06392694064
-Ford,F-250 Super Duty,Sommer,22622.52475247525
-Ford,F-250 Super Duty,Winter,20346.291975724882
-Ford,F-350 Super Duty,Fruehling,22637.17948717949
-Ford,F-350 Super Duty,Sommer,24206.33484162896
-Ford,F-350 Super Duty,Winter,21446.014539579966
-Ford,F-450 Super Duty,Fruehling,25918.18181818182
-Ford,F-450 Super Duty,Sommer,24400.0
-Ford,F-450 Super Duty,Winter,27808.315789473683
-Ford,Fiesta,Fruehling,9430.681274900398
-Ford,Fiesta,Sommer,8817.235616438356
-Ford,Fiesta,Winter,9260.931185944362
-Ford,Five Hundred,Fruehling,2963.8888888888887
-Ford,Five Hundred,Sommer,2818.3333333333335
-Ford,Five Hundred,Winter,3119.488188976378
-Ford,Flex,Fruehling,20118.87966804979
-Ford,Flex,Sommer,18687.303921568626
-Ford,Flex,Winter,18583.536253776434
-Ford,Focus,Fruehling,9529.505413105413
-Ford,Focus,Sommer,9067.120152574698
-Ford,Focus,Winter,9485.067127810093
-Ford,Focus ST,Fruehling,18296.875
-Ford,Focus ST,Sommer,18628.571428571428
-Ford,Focus ST,Winter,18319.23076923077
-Ford,Freestar,Fruehling,1622.7777777777778
-Ford,Freestar,Sommer,1533.3333333333333
-Ford,Freestar,Winter,1812.6994535519125
-Ford,Freestyle,Fruehling,2747.1153846153848
-Ford,Freestyle,Sommer,2406.25
-Ford,Freestyle,Winter,2682.0652173913045
-Ford,Fusion,Fruehling,12606.41677148847
-Ford,Fusion,Sommer,11934.989399293287
-Ford,Fusion,Winter,12355.260375363468
-Ford,Fusion Energi,Fruehling,22663.636363636364
-Ford,Fusion Energi,Sommer,18730.0
-Ford,Fusion Energi,Winter,20867.30769230769
-Ford,Fusion Hybrid,Fruehling,17142.721518987342
-Ford,Fusion Hybrid,Sommer,15665.802631578947
-Ford,Fusion Hybrid,Winter,16443.527508090614
-Ford,Mustang,Fruehling,15027.510686164229
-Ford,Mustang,Sommer,15279.432911392405
-Ford,Mustang,Winter,13111.897505978817
-Ford,Mustang SVT Cobra,Fruehling,3950.0
-Ford,Mustang SVT Cobra,Sommer,10800.0
-Ford,Mustang SVT Cobra,Winter,6243.75
-Ford,Ranger,Fruehling,8268.459915611815
-Ford,Ranger,Sommer,8922.787610619469
-Ford,Ranger,Winter,7603.637931034483
-Ford,Shelby GT500,Fruehling,47529.166666666664
-Ford,Shelby GT500,Sommer,43202.083333333336
-Ford,Shelby GT500,Winter,44467.64705882353
-Ford,Taurus,Fruehling,11583.077681874229
-Ford,Taurus,Sommer,12609.494778067885
-Ford,Taurus,Winter,10193.59215396003
-Ford,Taurus X,Fruehling,5683.333333333333
-Ford,Taurus X,Sommer,4322.222222222223
-Ford,Taurus X,Winter,4800.0
-Ford,Tempo,Fruehling,300.0
-Ford,Tempo,Winter,350.0
-Ford,Thunderbird,Fruehling,13050.0
-Ford,Thunderbird,Sommer,12520.0
-Ford,Thunderbird,Winter,11783.333333333334
-Ford,Transit Connect,Fruehling,11961.065573770491
-Ford,Transit Connect,Sommer,10173.140495867769
-Ford,Transit Connect,Winter,11602.81690140845
-Ford,Transit Van,Fruehling,25466.666666666668
-Ford,Transit Van,Sommer,23168.18181818182
-Ford,Transit Wagon,Fruehling,28880.0
-Ford,Transit Wagon,Sommer,27750.0
-Ford,Windstar,Fruehling,933.0
-Ford,Windstar,Sommer,1185.0
-Ford,Windstar,Winter,994.3627450980392
-Ford,Windstar Cargo,Fruehling,250.0
-Ford,Windstar Cargo,Sommer,250.0
-Ford,Windstar Cargo,Winter,275.0
-GMC,Acadia,Fruehling,17605.00325732899
-GMC,Acadia,Sommer,19191.75080906149
-GMC,Acadia,Winter,17088.805309734515
-GMC,Canyon,Fruehling,10120.0
-GMC,Canyon,Sommer,7900.0
-GMC,Canyon,Winter,9869.594594594595
-GMC,Envoy,Fruehling,4052.1052631578946
-GMC,Envoy,Sommer,3792.696629213483
-GMC,Envoy,Winter,4441.398514851485
-GMC,Envoy XL,Fruehling,3812.121212121212
-GMC,Envoy XL,Sommer,4251.785714285715
-GMC,Envoy XL,Winter,3677.8735632183907
-GMC,Envoy XUV,Fruehling,3650.0
-GMC,Envoy XUV,Sommer,3100.0
-GMC,Envoy XUV,Winter,3568.4210526315787
-GMC,Jimmy,Fruehling,990.0
-GMC,Jimmy,Sommer,1080.0
-GMC,Jimmy,Winter,897.2222222222222
-GMC,Safari,Winter,2266.6666666666665
-GMC,Safari Cargo,Winter,2050.0
-GMC,Savana,Fruehling,20766.666666666668
-GMC,Savana,Sommer,23000.0
-GMC,Savana,Winter,17550.0
-GMC,Savana Cargo,Fruehling,19877.083333333332
-GMC,Savana Cargo,Sommer,19460.093896713614
-GMC,Savana Cargo,Winter,19523.303167420814
-GMC,Sierra 1500,Fruehling,20488.91454965358
-GMC,Sierra 1500,Sommer,21737.437810945274
-GMC,Sierra 1500,Winter,18138.557073954984
-GMC,Sierra 1500 Classic,Fruehling,10640.0
-GMC,Sierra 1500 Classic,Sommer,11100.0
-GMC,Sierra 1500 Classic,Winter,10717.741935483871
-GMC,Sierra 1500 Hybrid,Fruehling,18200.0
-GMC,Sierra 1500 Hybrid,Winter,16000.0
-GMC,Sierra 1500HD,Sommer,10300.0
-GMC,Sierra 1500HD,Winter,8180.0
-GMC,Sierra 2500,Fruehling,6700.0
-GMC,Sierra 2500,Winter,5766.666666666667
-GMC,Sierra 2500HD,Fruehling,25749.45054945055
-GMC,Sierra 2500HD,Sommer,28345.16129032258
-GMC,Sierra 2500HD,Winter,24596.753246753247
-GMC,Sierra 2500HD Classic,Fruehling,19900.0
-GMC,Sierra 2500HD Classic,Sommer,24510.0
-GMC,Sierra 2500HD Classic,Winter,15818.181818181818
-GMC,Sierra 3500,Fruehling,14900.0
-GMC,Sierra 3500,Sommer,22600.0
-GMC,Sierra 3500,Winter,16150.0
-GMC,Sierra 3500HD,Fruehling,38014.28571428572
-GMC,Sierra 3500HD,Sommer,36493.333333333336
-GMC,Sierra 3500HD,Winter,32330.0
-GMC,Sonoma,Fruehling,4600.0
-GMC,Sonoma,Sommer,2136.3636363636365
-GMC,Sonoma,Winter,3511.4864864864867
-GMC,Suburban,Fruehling,1250.0
-GMC,Suburban,Winter,1243.3333333333333
-GMC,Terrain,Fruehling,18072.477064220184
-GMC,Terrain,Sommer,17364.25339366516
-GMC,Terrain,Winter,17143.397887323943
-GMC,Yukon,Fruehling,17922.748815165876
-GMC,Yukon,Sommer,18738.963190184048
-GMC,Yukon,Winter,15639.240139211137
-GMC,Yukon Denali,Fruehling,1275.0
-GMC,Yukon Denali,Winter,2041.6666666666667
-GMC,Yukon Hybrid,Fruehling,13325.0
-GMC,Yukon Hybrid,Sommer,20800.0
-GMC,Yukon Hybrid,Winter,17185.0
-GMC,Yukon XL,Fruehling,17578.72248803828
-GMC,Yukon XL,Sommer,20173.888059701494
-GMC,Yukon XL,Winter,15695.988707653702
-GMC,envoy,Fruehling,1040.0
-GMC,envoy,Sommer,731.25
-GMC,envoy,Winter,675.0
-Geo,Metro,Fruehling,400.0
-Geo,Prizm,Fruehling,475.0
-Geo,Prizm,Sommer,500.0
-Geo,Prizm,Winter,614.5833333333334
-HUMMER,H1,Fruehling,45750.0
-HUMMER,H2,Fruehling,18841.803278688523
-HUMMER,H2,Sommer,21342.45283018868
-HUMMER,H2,Winter,17729.56989247312
-HUMMER,H2 SUT,Fruehling,24315.625
-HUMMER,H2 SUT,Sommer,23425.0
-HUMMER,H2 SUT,Winter,22398.387096774193
-HUMMER,H3,Fruehling,12248.376811594202
-HUMMER,H3,Sommer,11264.285714285714
-HUMMER,H3,Winter,11514.311594202898
-HUMMER,H3T,Winter,21508.333333333332
-Honda,Accord,Fruehling,9067.523364485982
-Honda,Accord,Sommer,9957.420429311622
-Honda,Accord,Winter,9639.691226923705
-Honda,Accord Crosstour,Fruehling,13862.5
-Honda,Accord Crosstour,Sommer,15869.23076923077
-Honda,Accord Crosstour,Winter,14342.905405405405
-Honda,Accord Hybrid,Sommer,25816.666666666668
-Honda,Accord Hybrid,Winter,25471.428571428572
-Honda,CR-V,Fruehling,13631.14224137931
-Honda,CR-V,Sommer,13611.155462184874
-Honda,CR-V,Winter,13517.862385321101
+Chevrolet,Astro,Winter,4077.777777777778
+Chevrolet,Astro Cargo,Winter,3620.0
+Chevrolet,Aveo,Fruehling,4150.0
+Chevrolet,Aveo,Sommer,3800.0
+Chevrolet,Aveo,Winter,4389.164086687307
+Chevrolet,Blazer,Fruehling,2600.0
+Chevrolet,Blazer,Winter,3034.6153846153848
+Chevrolet,Camaro,Fruehling,2450.0
+Chevrolet,Camaro,Winter,3316.6666666666665
+Chevrolet,Captiva Sport,Fruehling,15800.0
+Chevrolet,Captiva Sport,Sommer,18000.0
+Chevrolet,Captiva Sport,Winter,13626.180790960452
+Chevrolet,Cavalier,Winter,2725.0
+Chevrolet,Classic,Winter,2886.3636363636365
+Chevrolet,Cobalt,Fruehling,3633.3333333333335
+Chevrolet,Cobalt,Winter,4244.547325102881
+Chevrolet,Cruze,Fruehling,12441.01
+Chevrolet,Cruze,Sommer,14266.666666666666
+Chevrolet,Cruze,Winter,11193.418354016982
+Chevrolet,Equinox,Fruehling,14988.944444444445
+Chevrolet,Equinox,Sommer,9800.0
+Chevrolet,Equinox,Winter,11959.310374515713
+Chevrolet,Impala,Fruehling,11689.3
+Chevrolet,Impala,Sommer,9810.0
+Chevrolet,Impala,Winter,8424.323636363637
+Chevrolet,Impala Limited,Fruehling,13785.882352941177
+Chevrolet,Impala Limited,Sommer,15612.5
+Chevrolet,Impala Limited,Winter,13682.804140127388
+Chevrolet,Malibu,Fruehling,11352.903846153846
+Chevrolet,Malibu,Sommer,12755.555555555555
+Chevrolet,Malibu,Winter,9518.278967439132
+Chevrolet,Malibu Classic,Winter,3704.5454545454545
+Chevrolet,Malibu Hybrid,Winter,5578.571428571428
+Chevrolet,Malibu Maxx,Winter,3675.409836065574
+Chevrolet,Sonic,Fruehling,10268.888888888889
+Chevrolet,Sonic,Sommer,9350.0
+Chevrolet,Sonic,Winter,9111.449039881833
+Chevrolet,Spark,Fruehling,10200.0
+Chevrolet,Spark,Winter,8017.832167832168
+Chevrolet,Suburban,Fruehling,13330.846153846154
+Chevrolet,Suburban,Sommer,20233.666666666668
+Chevrolet,Suburban,Winter,11495.675177304964
+Chevrolet,Tahoe,Fruehling,11766.666666666666
+Chevrolet,Tahoe,Sommer,13200.0
+Chevrolet,Tahoe,Winter,11361.277573529413
+Chevrolet,Tahoe Hybrid,Fruehling,10250.0
+Chevrolet,Tahoe Hybrid,Winter,13507.142857142857
+Chevrolet,Tracker,Winter,3578.5714285714284
+Chevrolet,TrailBlazer,Fruehling,5072.727272727273
+Chevrolet,TrailBlazer,Sommer,5800.0
+Chevrolet,TrailBlazer,Winter,5225.9578544061305
+Chevrolet,TrailBlazer EXT,Fruehling,4150.0
+Chevrolet,TrailBlazer EXT,Winter,4153.488372093023
+Chevrolet,Traverse,Fruehling,14631.25
+Chevrolet,Traverse,Sommer,16900.0
+Chevrolet,Traverse,Winter,14890.944325481798
+Chevrolet,Uplander,Fruehling,3220.0
+Chevrolet,Uplander,Winter,3764.1509433962265
+Chevrolet,Venture,Winter,2600.0
+Chevrolet,Volt,Fruehling,14820.0
+Chevrolet,Volt,Sommer,19200.0
+Chevrolet,Volt,Winter,12758.163265306122
+Chevrolet,malibu,Fruehling,7300.0
+Chevrolet,malibu,Winter,7024.137931034483
+Ford,Crown Victoria,Winter,8285.714285714286
+Ford,Edge,Fruehling,15700.0
+Ford,Edge,Sommer,15620.0
+Ford,Edge,Winter,17862.392986075298
+Ford,Escape,Fruehling,16664.70588235294
+Ford,Escape,Sommer,17475.0
+Ford,Escape,Winter,14550.864319248827
+Ford,Escape Hybrid,Fruehling,8000.0
+Ford,Escape Hybrid,Winter,10072.142857142857
+Ford,Excursion,Winter,9322.857142857143
+Ford,Expedition,Fruehling,7400.0
+Ford,Expedition,Sommer,5425.0
+Ford,Expedition,Winter,10802.288329519452
+Ford,Expedition EL,Winter,11364.70588235294
+Ford,Explorer,Fruehling,23000.0
+Ford,Explorer,Sommer,22275.0
+Ford,Explorer,Winter,16294.200152788388
+Ford,Explorer Sport,Winter,2966.6666666666665
+Ford,Fiesta,Fruehling,9740.0
+Ford,Fiesta,Sommer,11900.0
+Ford,Fiesta,Winter,9270.197004608295
+Ford,Five Hundred,Fruehling,2500.0
+Ford,Five Hundred,Winter,3900.537634408602
+Ford,Focus,Fruehling,10731.707317073171
+Ford,Focus,Sommer,13812.5
+Ford,Focus,Winter,10247.463298139768
+Ford,Focus ST,Fruehling,15100.0
+Ford,Focus ST,Sommer,16800.0
+Ford,Focus ST,Winter,17993.478260869564
+Ford,Freestar,Winter,3501.470588235294
+Ford,Fusion,Fruehling,12697.368421052632
+Ford,Fusion,Sommer,14166.666666666666
+Ford,Fusion,Winter,12471.620519159456
+Ford,Fusion Energi,Winter,20063.88888888889
+Ford,Fusion Hybrid,Fruehling,14700.0
+Ford,Fusion Hybrid,Sommer,17300.0
+Ford,Fusion Hybrid,Winter,16368.721461187215
+Ford,Taurus,Fruehling,17008.333333333332
+Ford,Taurus,Sommer,15100.0
+Ford,Taurus,Winter,13692.564270152505
+Ford,Transit Connect,Fruehling,11900.0
+Ford,Transit Connect,Sommer,16700.0
+Ford,Transit Connect,Winter,11772.268907563026
+Ford,Windstar,Winter,3333.3333333333335
+Honda,Accord,Fruehling,11021.317829457364
+Honda,Accord,Sommer,11368.37140019861
+Honda,Accord,Winter,11274.771897810218
+Honda,Accord Crosstour,Fruehling,13750.0
+Honda,Accord Crosstour,Sommer,14000.0
+Honda,Accord Crosstour,Winter,14412.152777777777
+Honda,Accord Hybrid,Sommer,24200.0
+Honda,Accord Hybrid,Winter,24916.666666666668
+Honda,CR-V,Fruehling,14281.425233644859
+Honda,CR-V,Sommer,14033.095768374165
+Honda,CR-V,Winter,14215.872405372405
 Honda,CR-Z,Fruehling,9493.333333333334
-Honda,CR-Z,Sommer,10316.666666666666
-Honda,CR-Z,Winter,10372.222222222223
-Honda,Civic,Fruehling,8261.846929422549
-Honda,Civic,Sommer,8633.919961427195
-Honda,Civic,Winter,8808.574139280125
-Honda,Civic del Sol,Fruehling,450.0
-Honda,Crosstour,Fruehling,16935.365853658535
-Honda,Crosstour,Sommer,17865.094339622643
-Honda,Crosstour,Winter,18226.020408163266
-Honda,Element,Fruehling,6642.857142857143
-Honda,Element,Sommer,7518.571428571428
-Honda,Element,Winter,6942.375690607735
-Honda,Fit,Fruehling,8906.73076923077
-Honda,Fit,Sommer,8373.91304347826
-Honda,Fit,Winter,9071.21451104101
-Honda,Insight,Fruehling,8532.258064516129
-Honda,Insight,Sommer,8163.04347826087
-Honda,Insight,Winter,9368.292682926829
-Honda,Odyssey,Fruehling,11154.989384288747
-Honda,Odyssey,Sommer,11859.388185654008
-Honda,Odyssey,Winter,11963.57276119403
-Honda,Passport,Fruehling,650.0
-Honda,Passport,Sommer,1466.6666666666667
-Honda,Passport,Winter,1340.2173913043478
-Honda,Pilot,Fruehling,18099.38775510204
-Honda,Pilot,Sommer,18476.953125
-Honda,Pilot,Winter,18136.954108068097
-Honda,Prelude,Fruehling,2683.3333333333335
-Honda,Prelude,Sommer,1000.0
-Honda,Prelude,Winter,2075.0
-Honda,Ridgeline,Fruehling,17415.625
-Honda,Ridgeline,Sommer,19224.324324324323
-Honda,Ridgeline,Winter,16805.32786885246
-Honda,S2000,Fruehling,11712.5
-Honda,S2000,Sommer,16461.764705882353
-Honda,S2000,Winter,10615.0
+Honda,CR-Z,Sommer,10100.0
+Honda,CR-Z,Winter,10419.718309859154
+Honda,Civic,Fruehling,9815.959004392387
+Honda,Civic,Sommer,10047.861356932153
+Honda,Civic,Winter,10248.562536528347
+Honda,Crosstour,Fruehling,16864.473684210527
+Honda,Crosstour,Sommer,17514.285714285714
+Honda,Crosstour,Winter,18129.123711340206
+Honda,Element,Fruehling,6722.916666666667
+Honda,Element,Sommer,7995.3125
+Honda,Element,Winter,7377.908496732026
+Honda,Fit,Fruehling,8748.809523809523
+Honda,Fit,Sommer,9225.0
+Honda,Fit,Winter,8892.077464788732
+Honda,Insight,Fruehling,8773.333333333334
+Honda,Insight,Sommer,9633.333333333334
+Honda,Insight,Winter,9591.0
+Honda,Odyssey,Fruehling,11091.639871382637
+Honda,Odyssey,Sommer,12366.666666666666
+Honda,Odyssey,Winter,12402.469325153374
+Honda,Passport,Sommer,2900.0
+Honda,Passport,Winter,3137.5
+Honda,Pilot,Fruehling,16072.282608695652
+Honda,Pilot,Sommer,15338.674033149171
+Honda,Pilot,Winter,15869.032416502947
 Honda,accord,Fruehling,4425.0
-Honda,accord,Winter,4043.3333333333335
-Hyundai,Accent,Fruehling,8030.558404558405
-Hyundai,Accent,Sommer,7580.054794520548
-Hyundai,Accent,Winter,7720.6266318537855
-Hyundai,Azera,Fruehling,12194.444444444445
-Hyundai,Azera,Sommer,16495.555555555555
-Hyundai,Azera,Winter,11984.673366834171
-Hyundai,Elantra,Fruehling,10169.718309859154
-Hyundai,Elantra,Sommer,10290.529364440868
-Hyundai,Elantra,Winter,9759.010335917314
-Hyundai,Elantra Coupe,Fruehling,12122.727272727272
-Hyundai,Elantra Coupe,Sommer,12336.0
-Hyundai,Elantra Coupe,Winter,12338.75
-Hyundai,Elantra GT,Fruehling,13341.935483870968
-Hyundai,Elantra GT,Sommer,12798.529411764706
-Hyundai,Elantra GT,Winter,13147.619047619048
-Hyundai,Elantra Touring,Fruehling,7054.166666666667
-Hyundai,Elantra Touring,Sommer,8125.0
-Hyundai,Elantra Touring,Winter,7917.142857142857
-Hyundai,Entourage,Fruehling,4014.705882352941
-Hyundai,Entourage,Sommer,4658.333333333333
-Hyundai,Entourage,Winter,4055.714285714286
-Hyundai,Equus,Fruehling,33162.5
-Hyundai,Equus,Sommer,33926.78571428572
-Hyundai,Equus,Winter,33560.52631578947
-Hyundai,Genesis,Fruehling,17809.38129496403
-Hyundai,Genesis,Sommer,18801.80239520958
-Hyundai,Genesis,Winter,18044.3375
-Hyundai,Genesis Coupe,Fruehling,15741.176470588236
-Hyundai,Genesis Coupe,Sommer,17341.129032258064
-Hyundai,Genesis Coupe,Winter,15393.08176100629
-Hyundai,Santa Fe,Fruehling,8708.720930232557
-Hyundai,Santa Fe,Sommer,10546.630434782608
-Hyundai,Santa Fe,Winter,9773.379032258064
-Hyundai,Santa Fe Sport,Fruehling,19300.877192982458
-Hyundai,Santa Fe Sport,Sommer,19220.967741935485
-Hyundai,Santa Fe Sport,Winter,20450.34965034965
-Hyundai,Sonata,Fruehling,10825.273885350318
-Hyundai,Sonata,Sommer,11053.551420176298
-Hyundai,Sonata,Winter,10601.780266666667
-Hyundai,Sonata Hybrid,Fruehling,14905.0
-Hyundai,Sonata Hybrid,Sommer,16473.295454545456
-Hyundai,Sonata Hybrid,Winter,15465.94752186589
-Hyundai,Tiburon,Fruehling,3453.846153846154
-Hyundai,Tiburon,Sommer,3230.0
-Hyundai,Tiburon,Winter,3028.9763779527557
-Hyundai,Tucson,Fruehling,12374.642857142857
-Hyundai,Tucson,Sommer,13102.095808383234
-Hyundai,Tucson,Winter,11481.788793103447
-Hyundai,Veloster,Fruehling,13505.729166666666
-Hyundai,Veloster,Sommer,13820.143884892086
-Hyundai,Veloster,Winter,13243.91447368421
-Hyundai,Veracruz,Fruehling,11107.692307692309
-Hyundai,Veracruz,Sommer,11131.25
-Hyundai,Veracruz,Winter,11126.052631578947
-Hyundai,XG300,Fruehling,1000.0
-Hyundai,XG300,Winter,1556.25
-Hyundai,XG350,Fruehling,1355.0
-Hyundai,XG350,Sommer,1782.142857142857
-Hyundai,XG350,Winter,1949.107142857143
-Infiniti,EX,Fruehling,21375.0
-Infiniti,EX,Sommer,21766.666666666668
-Infiniti,EX,Winter,22558.333333333332
-Infiniti,EX35,Fruehling,12827.777777777777
-Infiniti,EX35,Sommer,12529.166666666666
-Infiniti,EX35,Winter,12995.714285714286
-Infiniti,FX,Fruehling,27460.4375
-Infiniti,FX,Sommer,27132.885714285716
-Infiniti,FX,Winter,27374.592105263157
-Infiniti,FX35,Fruehling,10708.75
-Infiniti,FX35,Sommer,11817.708333333334
-Infiniti,FX35,Winter,10810.382513661201
-Infiniti,FX45,Fruehling,8700.0
-Infiniti,FX45,Sommer,6300.0
-Infiniti,FX45,Winter,7781.481481481482
-Infiniti,FX50,Sommer,19800.0
-Infiniti,FX50,Winter,27150.0
-Infiniti,G Convertible,Fruehling,26505.128205128207
-Infiniti,G Convertible,Sommer,27377.21518987342
-Infiniti,G Convertible,Winter,25724.73404255319
-Infiniti,G Coupe,Fruehling,22510.0
-Infiniti,G Coupe,Sommer,22289.111747851002
-Infiniti,G Coupe,Winter,22490.172786177107
-Infiniti,G Sedan,Fruehling,19832.15258855586
-Infiniti,G Sedan,Sommer,19331.550704225352
-Infiniti,G Sedan,Winter,20187.99547818223
-Infiniti,G20,Fruehling,675.0
-Infiniti,G20,Sommer,700.0
-Infiniti,G20,Winter,1130.6818181818182
-Infiniti,G35,Fruehling,6922.077922077922
-Infiniti,G35,Sommer,6643.75
-Infiniti,G35,Winter,6869.620253164557
-Infiniti,G37,Fruehling,13548.333333333334
-Infiniti,G37,Sommer,13855.0
-Infiniti,G37,Winter,13223.345588235294
-Infiniti,G37 Convertible,Fruehling,20666.666666666668
-Infiniti,G37 Convertible,Sommer,21666.666666666668
-Infiniti,G37 Convertible,Winter,19811.53846153846
-Infiniti,G37 Coupe,Fruehling,16325.0
-Infiniti,G37 Coupe,Winter,15155.555555555555
-Infiniti,I30,Fruehling,1450.0
-Infiniti,I30,Sommer,1800.0
-Infiniti,I30,Winter,1488.0681818181818
-Infiniti,I35,Fruehling,2490.0
-Infiniti,I35,Sommer,2690.0
-Infiniti,I35,Winter,2808.4615384615386
-Infiniti,J30,Fruehling,375.0
-Infiniti,J30,Winter,475.0
-Infiniti,JX,Fruehling,30070.54794520548
-Infiniti,JX,Sommer,30381.81818181818
-Infiniti,JX,Winter,30023.71111111111
-Infiniti,M,Fruehling,24678.716216216217
-Infiniti,M,Sommer,24285.05154639175
-Infiniti,M,Winter,25758.33542976939
-Infiniti,M35,Fruehling,10186.842105263158
-Infiniti,M35,Sommer,9197.560975609756
-Infiniti,M35,Winter,9753.64238410596
-Infiniti,M37,Fruehling,19561.53846153846
-Infiniti,M37,Sommer,19668.75
-Infiniti,M37,Winter,22724.944444444445
-Infiniti,M45,Fruehling,7681.818181818182
-Infiniti,M45,Sommer,5871.428571428572
-Infiniti,M45,Winter,8076.136363636364
-Infiniti,M56,Fruehling,27000.0
-Infiniti,M56,Sommer,24400.0
-Infiniti,M56,Winter,22920.0
-Infiniti,Q45,Fruehling,2314.285714285714
-Infiniti,Q45,Sommer,3720.0
-Infiniti,Q45,Winter,3267.8571428571427
-Infiniti,Q50,Fruehling,28882.05128205128
-Infiniti,Q50,Sommer,28489.689655172413
-Infiniti,Q50,Winter,29714.441253263707
-Infiniti,Q60 Convertible,Fruehling,38200.0
-Infiniti,Q60 Convertible,Sommer,35683.333333333336
-Infiniti,Q60 Convertible,Winter,36780.882352941175
-Infiniti,Q60 Coupe,Fruehling,26633.333333333332
-Infiniti,Q60 Coupe,Sommer,29842.85714285714
-Infiniti,Q60 Coupe,Winter,29961.53846153846
-Infiniti,Q70,Fruehling,31528.571428571428
-Infiniti,Q70,Sommer,29991.666666666668
-Infiniti,Q70,Winter,40171.42857142857
-Infiniti,QX,Fruehling,40237.5
-Infiniti,QX,Sommer,39198.84146341463
-Infiniti,QX,Winter,41671.311475409835
-Infiniti,QX4,Fruehling,2195.8333333333335
-Infiniti,QX4,Sommer,2560.0
-Infiniti,QX4,Winter,2273.684210526316
-Infiniti,QX50,Fruehling,33200.0
-Infiniti,QX50,Winter,32257.14285714286
-Infiniti,QX56,Fruehling,19899.242424242424
-Infiniti,QX56,Sommer,22763.076923076922
-Infiniti,QX56,Winter,21221.25
-Infiniti,QX60,Fruehling,31591.891891891893
-Infiniti,QX60,Sommer,32173.355555555554
-Infiniti,QX60,Winter,37017.934782608696
-Infiniti,QX70,Fruehling,32386.363636363636
-Infiniti,QX70,Sommer,31896.428571428572
-Infiniti,QX70,Winter,35007.31707317073
-Infiniti,QX80,Fruehling,51842.10526315789
-Infiniti,QX80,Sommer,52958.333333333336
-Infiniti,QX80,Winter,58470.51282051282
-Isuzu,Amigo,Winter,1200.0
-Isuzu,Ascender,Fruehling,3066.6666666666665
-Isuzu,Ascender,Winter,2690.625
-Isuzu,Axiom,Fruehling,2400.0
-Isuzu,Axiom,Sommer,1700.0
-Isuzu,Axiom,Winter,1703.3333333333333
-Isuzu,Rodeo,Fruehling,1536.764705882353
-Isuzu,Rodeo,Sommer,766.6666666666666
-Isuzu,Rodeo,Winter,1351.6949152542372
-Isuzu,Rodeo Sport,Winter,2033.3333333333333
-Isuzu,Trooper,Fruehling,1035.7142857142858
-Isuzu,Trooper,Sommer,850.0
-Isuzu,Trooper,Winter,997.2222222222222
-Isuzu,i-Series,Fruehling,7000.0
-Isuzu,i-Series,Sommer,5300.0
-Isuzu,i-Series,Winter,4814.285714285715
-Jaguar,F-TYPE,Fruehling,70875.0
-Jaguar,F-TYPE,Sommer,78790.0
-Jaguar,F-TYPE,Winter,70453.125
-Jaguar,S-Type,Fruehling,2633.720930232558
-Jaguar,S-Type,Sommer,3253.448275862069
-Jaguar,S-Type,Winter,2917.283950617284
-Jaguar,X-Type,Fruehling,2393.75
-Jaguar,X-Type,Sommer,3247.0588235294117
-Jaguar,X-Type,Winter,2696.25
-Jaguar,XF,Fruehling,21698.387096774193
-Jaguar,XF,Sommer,24750.0
-Jaguar,XF,Winter,23849.51219512195
-Jaguar,XJ,Fruehling,45458.04
-Jaguar,XJ,Sommer,40119.642857142855
-Jaguar,XJ,Winter,39266.0
-Jaguar,XJ-Series,Fruehling,5648.648648648648
-Jaguar,XJ-Series,Sommer,7128.571428571428
-Jaguar,XJ-Series,Winter,5486.637931034483
-Jaguar,XK,Fruehling,49637.5
-Jaguar,XK,Sommer,43772.72727272727
-Jaguar,XK,Winter,44470.833333333336
-Jaguar,XK-Series,Fruehling,14362.5
-Jaguar,XK-Series,Sommer,19652.941176470587
-Jaguar,XK-Series,Winter,11261.95652173913
-Jeep,Cherokee,Fruehling,17389.156626506025
-Jeep,Cherokee,Sommer,17966.472868217053
-Jeep,Cherokee,Winter,15988.333333333334
-Jeep,Commander,Fruehling,7368.75
-Jeep,Commander,Sommer,7590.526315789473
-Jeep,Commander,Winter,7745.693779904306
-Jeep,Compass,Fruehling,11080.434782608696
-Jeep,Compass,Sommer,12176.844444444445
-Jeep,Compass,Winter,11754.0
-Jeep,Grand Cherokee,Fruehling,15821.35885885886
-Jeep,Grand Cherokee,Sommer,18536.570827489482
-Jeep,Grand Cherokee,Winter,14790.181780366056
-Jeep,Grand Cherokee SRT,Fruehling,61000.0
-Jeep,Liberty,Fruehling,7577.058355437665
-Jeep,Liberty,Sommer,8313.58024691358
-Jeep,Liberty,Winter,8265.214193548387
-Jeep,Patriot,Fruehling,10131.856540084389
-Jeep,Patriot,Sommer,11925.723472668811
-Jeep,Patriot,Winter,10878.90019379845
-Jeep,Wrangler,Fruehling,22623.644151565073
-Jeep,Wrangler,Sommer,23240.766101694917
-Jeep,Wrangler,Winter,20981.695915279877
-Kia,Amanti,Fruehling,3023.076923076923
-Kia,Amanti,Sommer,4533.333333333333
-Kia,Amanti,Winter,2965.492957746479
-Kia,Borrego,Fruehling,9000.0
-Kia,Borrego,Sommer,8725.0
-Kia,Borrego,Winter,8530.76923076923
-Kia,Cadenza,Fruehling,20626.785714285714
-Kia,Cadenza,Sommer,21272.033898305086
-Kia,Cadenza,Winter,20663.178294573645
-Kia,Forte,Fruehling,10086.111111111111
-Kia,Forte,Sommer,9886.630434782608
-Kia,Forte,Winter,10378.951145958987
-Kia,K900,Fruehling,38175.0
-Kia,K900,Sommer,36540.47619047619
-Kia,K900,Winter,40207.40740740741
-Kia,Optima,Fruehling,13037.645799011532
-Kia,Optima,Sommer,13286.465437788018
-Kia,Optima,Winter,13389.802164502165
-Kia,Rio,Fruehling,8139.00462962963
-Kia,Rio,Sommer,8258.590733590734
-Kia,Rio,Winter,8600.67097532315
-Kia,Rondo,Fruehling,3534.5238095238096
-Kia,Rondo,Sommer,4100.0
-Kia,Rondo,Winter,3450.0
-Kia,Sedona,Fruehling,7733.095588235294
-Kia,Sedona,Sommer,12022.163120567377
-Kia,Sedona,Winter,6667.263698630137
-Kia,Sephia,Fruehling,550.0
-Kia,Sephia,Sommer,550.0
-Kia,Sephia,Winter,625.0
-Kia,Sorento,Fruehling,13357.221006564552
-Kia,Sorento,Sommer,15504.097913322632
-Kia,Sorento,Winter,14451.380236305049
-Kia,Soul,Fruehling,11274.887096774193
-Kia,Soul,Sommer,10936.663346613546
-Kia,Soul,Winter,11455.725657894736
-Kia,Spectra,Fruehling,2521.09375
-Kia,Spectra,Sommer,2738.7096774193546
-Kia,Spectra,Winter,2586.198738170347
-Kia,Sportage,Fruehling,11753.382352941177
-Kia,Sportage,Sommer,12885.098591549297
-Kia,Sportage,Winter,12748.62912087912
-Lamborghini,Gallardo,Fruehling,110000.0
-Lamborghini,Gallardo,Winter,112250.0
-Land Rover,Discovery,Fruehling,1700.0
-Land Rover,Discovery,Winter,979.1666666666666
-Land Rover,Discovery Series II,Fruehling,3300.0
-Land Rover,Discovery Series II,Sommer,800.0
-Land Rover,Discovery Series II,Winter,1563.0434782608695
-Land Rover,Freelander,Fruehling,1470.0
-Land Rover,Freelander,Sommer,2400.0
-Land Rover,Freelander,Winter,2054.6875
-Land Rover,LR2,Fruehling,16356.666666666666
-Land Rover,LR2,Sommer,15058.823529411764
-Land Rover,LR2,Winter,12539.130434782608
-Land Rover,LR3,Fruehling,13950.0
-Land Rover,LR3,Sommer,15600.0
-Land Rover,LR3,Winter,14269.047619047618
-Land Rover,LR4,Fruehling,37242.10526315789
-Land Rover,LR4,Sommer,37372.857142857145
-Land Rover,LR4,Winter,42121.42857142857
-Land Rover,Range Rover,Fruehling,40189.444444444445
-Land Rover,Range Rover,Sommer,42481.57894736842
-Land Rover,Range Rover,Winter,39029.454545454544
-Land Rover,Range Rover Evoque,Fruehling,34223.07692307692
-Land Rover,Range Rover Evoque,Sommer,36487.878787878784
-Land Rover,Range Rover Evoque,Winter,36449.056603773584
-Land Rover,Range Rover Sport,Fruehling,38384.21052631579
-Land Rover,Range Rover Sport,Sommer,35911.475409836065
-Land Rover,Range Rover Sport,Winter,35358.64022662889
-Lexus,CT 200h,Fruehling,19573.015873015873
-Lexus,CT 200h,Sommer,18644.545454545456
-Lexus,CT 200h,Winter,20480.901287553646
-Lexus,ES 300,Fruehling,3148.1132075471696
-Lexus,ES 300,Sommer,3500.0
-Lexus,ES 300,Winter,3466.7021276595747
-Lexus,ES 300h,Fruehling,28444.444444444445
-Lexus,ES 300h,Sommer,28353.333333333332
-Lexus,ES 300h,Winter,30127.906976744187
-Lexus,ES 330,Fruehling,6525.925925925926
-Lexus,ES 330,Sommer,6258.620689655172
-Lexus,ES 330,Winter,6197.40932642487
-Lexus,ES 350,Fruehling,19940.763052208837
-Lexus,ES 350,Sommer,20792.730978260868
-Lexus,ES 350,Winter,19660.027726432534
-Lexus,GS 300,Fruehling,7375.641025641025
-Lexus,GS 300,Sommer,9870.0
-Lexus,GS 300,Winter,7698.837209302325
-Lexus,GS 350,Fruehling,27831.140350877195
-Lexus,GS 350,Sommer,28980.898876404495
-Lexus,GS 350,Winter,29454.834605597964
-Lexus,GS 400,Fruehling,3150.0
-Lexus,GS 400,Sommer,3500.0
-Lexus,GS 400,Winter,2073.3333333333335
-Lexus,GS 430,Fruehling,5910.0
-Lexus,GS 430,Sommer,7671.428571428572
-Lexus,GS 430,Winter,7281.818181818182
-Lexus,GS 450h,Fruehling,23287.5
-Lexus,GS 450h,Sommer,19250.0
-Lexus,GS 450h,Winter,16773.61111111111
-Lexus,GS 460,Fruehling,15500.0
-Lexus,GS 460,Sommer,23000.0
-Lexus,GS 460,Winter,16166.666666666666
-Lexus,GX 460,Fruehling,38070.0
-Lexus,GX 460,Sommer,40632.25806451613
-Lexus,GX 460,Winter,36736.39344262295
-Lexus,GX 470,Fruehling,19858.333333333332
-Lexus,GX 470,Sommer,18014.285714285714
-Lexus,GX 470,Winter,19968.354430379746
-Lexus,HS 250h,Fruehling,15450.0
-Lexus,HS 250h,Sommer,16676.470588235294
-Lexus,HS 250h,Winter,16953.658536585364
-Lexus,IS 250,Fruehling,19484.403669724772
-Lexus,IS 250,Sommer,20388.319088319087
-Lexus,IS 250,Winter,19095.211330935253
-Lexus,IS 250 C,Fruehling,25494.736842105263
-Lexus,IS 250 C,Sommer,28868.42105263158
-Lexus,IS 250 C,Winter,25407.14285714286
-Lexus,IS 300,Fruehling,4247.222222222223
-Lexus,IS 300,Sommer,4581.818181818182
-Lexus,IS 300,Winter,4086.231884057971
-Lexus,IS 350,Fruehling,22193.333333333332
-Lexus,IS 350,Sommer,20569.354838709678
-Lexus,IS 350,Winter,18393.75
-Lexus,IS 350 C,Fruehling,31250.0
-Lexus,IS 350 C,Sommer,28800.0
-Lexus,IS 350 C,Winter,29545.833333333332
-Lexus,IS F,Fruehling,28660.0
-Lexus,IS F,Sommer,36850.0
-Lexus,IS F,Winter,31711.11111111111
-Lexus,LS 400,Fruehling,2784.375
-Lexus,LS 400,Sommer,2559.375
-Lexus,LS 400,Winter,2253.3653846153848
-Lexus,LS 430,Fruehling,9244.23076923077
-Lexus,LS 430,Sommer,8552.727272727272
-Lexus,LS 430,Winter,8863.582677165354
-Lexus,LS 460,Fruehling,28605.063291139242
-Lexus,LS 460,Sommer,29173.837209302324
-Lexus,LS 460,Winter,29899.51219512195
-Lexus,LS 600h L,Fruehling,28000.0
-Lexus,LS 600h L,Winter,20825.0
-Lexus,LX 450,Fruehling,2700.0
-Lexus,LX 450,Sommer,3500.0
-Lexus,LX 450,Winter,8100.0
-Lexus,LX 470,Fruehling,8377.777777777777
-Lexus,LX 470,Sommer,9375.0
-Lexus,LX 470,Winter,8731.944444444445
-Lexus,LX 570,Fruehling,51290.0
-Lexus,LX 570,Sommer,54533.333333333336
-Lexus,LX 570,Winter,54310.90909090909
-Lexus,RC 350,Fruehling,45875.0
-Lexus,RC 350,Sommer,46025.0
-Lexus,RC F,Sommer,64360.0
-Lexus,RX 300,Fruehling,4240.243902439024
-Lexus,RX 300,Sommer,3794.1176470588234
-Lexus,RX 300,Winter,4275.271739130435
-Lexus,RX 330,Fruehling,8721.538461538461
-Lexus,RX 330,Sommer,8663.157894736842
-Lexus,RX 330,Winter,9451.254480286738
-Lexus,RX 350,Fruehling,26710.51724137931
-Lexus,RX 350,Sommer,27352.828054298643
-Lexus,RX 350,Winter,26356.697108066972
-Lexus,RX 400h,Fruehling,11655.76923076923
-Lexus,RX 400h,Sommer,13725.0
-Lexus,RX 400h,Winter,12229.338842975207
-Lexus,RX 450h,Fruehling,31098.0
-Lexus,RX 450h,Sommer,28981.666666666668
-Lexus,RX 450h,Winter,30643.67816091954
-Lexus,SC 300,Fruehling,2525.0
-Lexus,SC 300,Winter,1283.3333333333333
-Lexus,SC 400,Fruehling,1016.6666666666666
-Lexus,SC 400,Sommer,4100.0
-Lexus,SC 400,Winter,2850.0
-Lexus,SC 430,Fruehling,10670.833333333334
-Lexus,SC 430,Sommer,13720.0
-Lexus,SC 430,Winter,11293.75
-Lincoln,Aviator,Fruehling,3510.714285714286
-Lincoln,Aviator,Sommer,2912.5
-Lincoln,Aviator,Winter,3435.483870967742
-Lincoln,Blackwood,Sommer,5700.0
-Lincoln,Blackwood,Winter,10066.666666666666
-Lincoln,Continental,Fruehling,1680.0
-Lincoln,Continental,Sommer,2560.0
-Lincoln,Continental,Winter,1051.0204081632653
-Lincoln,LS,Fruehling,1679.7297297297298
-Lincoln,LS,Sommer,1840.2777777777778
-Lincoln,LS,Winter,1843.75
-Lincoln,MKC,Fruehling,33216.666666666664
-Lincoln,MKC,Sommer,31781.25
-Lincoln,MKC,Winter,35220.0
-Lincoln,MKS,Fruehling,22627.950310559005
-Lincoln,MKS,Sommer,21924.594594594593
-Lincoln,MKS,Winter,21443.216335540837
-Lincoln,MKT,Fruehling,26459.25925925926
-Lincoln,MKT,Sommer,23033.333333333332
-Lincoln,MKT,Winter,22945.698924731183
-Lincoln,MKX,Fruehling,25307.908163265307
-Lincoln,MKX,Sommer,23703.481012658227
-Lincoln,MKX,Winter,22467.340425531915
-Lincoln,MKZ,Fruehling,19651.74603174603
-Lincoln,MKZ,Sommer,19015.34954407295
-Lincoln,MKZ,Winter,16628.676470588234
-Lincoln,MKZ Hybrid,Sommer,11950.0
-Lincoln,MKZ Hybrid,Winter,13288.888888888889
-Lincoln,Mark LT,Fruehling,11766.666666666666
-Lincoln,Mark LT,Sommer,13375.0
-Lincoln,Mark LT,Winter,12694.318181818182
-Lincoln,Mark VIII,Winter,912.5
-Lincoln,Navigator,Fruehling,17627.480916030534
-Lincoln,Navigator,Sommer,20196.336842105262
-Lincoln,Navigator,Winter,16217.82911392405
-Lincoln,Navigator L,Fruehling,12171.42857142857
-Lincoln,Navigator L,Sommer,11433.333333333334
-Lincoln,Navigator L,Winter,14468.75
-Lincoln,Town Car,Fruehling,4036.1111111111113
-Lincoln,Town Car,Sommer,3400.0
-Lincoln,Town Car,Winter,4475.364077669903
-Lincoln,Zephyr,Fruehling,4436.8421052631575
-Lincoln,Zephyr,Sommer,4421.428571428572
-Lincoln,Zephyr,Winter,4704.8387096774195
-Lotus,Exige,Fruehling,40800.0
-MINI,Cooper,Fruehling,10235.335195530726
-MINI,Cooper,Sommer,11111.819306930693
-MINI,Cooper,Winter,10141.608662026296
-MINI,Cooper Clubman,Fruehling,11754.098360655738
-MINI,Cooper Clubman,Sommer,11897.619047619048
-MINI,Cooper Clubman,Winter,12434.915611814346
-MINI,Cooper Countryman,Fruehling,17290.16393442623
-MINI,Cooper Countryman,Sommer,19603.571428571428
-MINI,Cooper Countryman,Winter,19362.283737024223
-MINI,Cooper Coupe,Fruehling,17058.333333333332
-MINI,Cooper Coupe,Sommer,14380.76923076923
-MINI,Cooper Coupe,Winter,16527.777777777777
-MINI,Cooper Paceman,Fruehling,18325.0
-MINI,Cooper Paceman,Sommer,20990.0
-MINI,Cooper Paceman,Winter,20295.3125
-MINI,Cooper Roadster,Fruehling,17233.333333333332
-MINI,Cooper Roadster,Sommer,17262.5
-MINI,Cooper Roadster,Winter,20340.0
-Maserati,Coupe,Winter,12750.0
-Maserati,Ghibli,Fruehling,58000.0
-Maserati,Ghibli,Sommer,57350.0
-Maserati,Ghibli,Winter,61708.333333333336
-Maserati,GranSport,Winter,32000.0
-Maserati,GranTurismo,Fruehling,61275.0
-Maserati,GranTurismo,Sommer,67383.33333333333
-Maserati,GranTurismo,Winter,54737.5
-Maserati,GranTurismo Convertible,Fruehling,72500.0
-Maserati,GranTurismo Convertible,Sommer,77333.33333333333
-Maserati,GranTurismo Convertible,Winter,75300.0
-Maserati,Quattroporte,Fruehling,30466.666666666668
-Maserati,Quattroporte,Sommer,30119.23076923077
-Maserati,Quattroporte,Winter,29964.473684210527
-Maserati,Spyder,Sommer,15750.0
-Maserati,Spyder,Winter,17400.0
-Mazda,3,Fruehling,6921.428571428572
-Mazda,3,Sommer,10591.666666666666
-Mazda,3,Winter,12425.0
-Mazda,6,Fruehling,9333.333333333334
-Mazda,6,Sommer,10550.0
-Mazda,6,Winter,8956.666666666666
-Mazda,626,Fruehling,644.2307692307693
-Mazda,626,Sommer,1078.5714285714287
-Mazda,626,Winter,855.188679245283
-Mazda,B-Series Pickup,Fruehling,1550.0
-Mazda,B-Series Pickup,Winter,1221.4285714285713
-Mazda,B-Series Truck,Fruehling,3500.0
-Mazda,B-Series Truck,Sommer,9600.0
-Mazda,B-Series Truck,Winter,9250.0
-Mazda,CX-5,Fruehling,18758.710144927536
-Mazda,CX-5,Sommer,18362.975308641977
-Mazda,CX-5,Winter,19321.742474916387
-Mazda,CX-7,Fruehling,8720.588235294117
-Mazda,CX-7,Sommer,8092.708333333333
-Mazda,CX-7,Winter,9443.72197309417
-Mazda,CX-9,Fruehling,15826.704545454546
-Mazda,CX-9,Sommer,18560.280373831774
-Mazda,CX-9,Winter,17338.98678414097
-Mazda,MPV,Fruehling,1980.8823529411766
-Mazda,MPV,Sommer,1216.6666666666667
-Mazda,MPV,Winter,1673.076923076923
-Mazda,MX-5 Miata,Fruehling,10471.42857142857
-Mazda,MX-5 Miata,Sommer,15020.833333333334
-Mazda,MX-5 Miata,Winter,12195.945945945947
-Mazda,Mazda2,Fruehling,8446.153846153846
-Mazda,Mazda2,Sommer,8073.586206896552
-Mazda,Mazda2,Winter,8350.010256410256
-Mazda,Mazda3,Fruehling,8785.467532467532
-Mazda,Mazda3,Sommer,8908.67458432304
-Mazda,Mazda3,Winter,9362.90368980613
-Mazda,Mazda5,Fruehling,10572.339805825242
-Mazda,Mazda5,Sommer,9436.168316831683
-Mazda,Mazda5,Winter,10154.310650887574
-Mazda,Mazda6,Fruehling,9024.0990990991
-Mazda,Mazda6,Sommer,9361.602209944751
-Mazda,Mazda6,Winter,9466.50158061117
-Mazda,Mazdaspeed 3,Fruehling,14900.0
-Mazda,Mazdaspeed 3,Sommer,16212.5
-Mazda,Mazdaspeed 3,Winter,14050.0
-Mazda,Mazdaspeed MX-5 Miata,Fruehling,3600.0
-Mazda,Mazdaspeed MX-5 Miata,Winter,4250.0
-Mazda,Mazdaspeed Mazda3,Fruehling,6400.0
-Mazda,Mazdaspeed Mazda3,Sommer,9825.0
-Mazda,Mazdaspeed Mazda3,Winter,7738.461538461538
-Mazda,Mazdaspeed Mazda6,Fruehling,7375.0
-Mazda,Mazdaspeed Mazda6,Winter,5555.0
-Mazda,Mazdaspeed Protege,Fruehling,2000.0
-Mazda,Mazdaspeed Protege,Winter,1766.6666666666667
-Mazda,Mazdaspeed3,Fruehling,13006.25
-Mazda,Mazdaspeed3,Sommer,10500.0
-Mazda,Mazdaspeed3,Winter,15521.666666666666
-Mazda,Millenia,Fruehling,1050.0
-Mazda,Millenia,Sommer,750.0
-Mazda,Millenia,Winter,1206.7567567567567
-Mazda,Protege,Fruehling,1106.9444444444443
-Mazda,Protege,Sommer,1086.111111111111
-Mazda,Protege,Winter,1037.3239436619717
-Mazda,Protege5,Fruehling,1755.5555555555557
-Mazda,Protege5,Sommer,1250.0
-Mazda,Protege5,Winter,1710.7142857142858
-Mazda,RX-8,Fruehling,10100.0
-Mazda,RX-8,Sommer,8675.0
-Mazda,RX-8,Winter,10887.5
-Mazda,Tribute,Fruehling,3009.722222222222
-Mazda,Tribute,Sommer,3533.3333333333335
-Mazda,Tribute,Winter,3220.4402515723273
-Mazda,Tribute Hybrid,Winter,10200.0
-Mazda,Truck,Fruehling,1300.0
-Mazda,Truck,Sommer,1000.0
-Mazda,Truck,Winter,2930.0
-Mercedes-Benz,190-Class,Fruehling,975.0
-Mercedes-Benz,190-Class,Sommer,400.0
-Mercedes-Benz,190-Class,Winter,750.0
-Mercedes-Benz,300-Class,Fruehling,595.0
-Mercedes-Benz,300-Class,Sommer,550.0
-Mercedes-Benz,300-Class,Winter,1365.0
-Mercedes-Benz,400-Class,Winter,2350.0
-Mercedes-Benz,420-Class,Fruehling,1400.0
-Mercedes-Benz,500-Class,Fruehling,3300.0
-Mercedes-Benz,500-Class,Winter,2583.3333333333335
-Mercedes-Benz,B-Class Electric Drive,Fruehling,28750.0
-Mercedes-Benz,B-Class Electric Drive,Sommer,23750.0
-Mercedes-Benz,C-Class,Fruehling,16920.733333333334
-Mercedes-Benz,C-Class,Sommer,18608.427987742594
-Mercedes-Benz,C-Class,Winter,17097.66227758007
-Mercedes-Benz,CL-Class,Fruehling,28823.4375
-Mercedes-Benz,CL-Class,Sommer,33784.375
-Mercedes-Benz,CL-Class,Winter,22815.0
-Mercedes-Benz,CLA-Class,Fruehling,30376.5625
-Mercedes-Benz,CLA-Class,Sommer,32691.666666666668
-Mercedes-Benz,CLA-Class,Winter,29903.125
-Mercedes-Benz,CLK-Class,Fruehling,7644.354838709677
-Mercedes-Benz,CLK-Class,Sommer,8234.745762711864
-Mercedes-Benz,CLK-Class,Winter,7433.333333333333
-Mercedes-Benz,CLS-Class,Fruehling,28547.014925373136
-Mercedes-Benz,CLS-Class,Sommer,35081.818181818184
-Mercedes-Benz,CLS-Class,Winter,28076.039215686276
-Mercedes-Benz,E-Class,Fruehling,20136.248953974897
-Mercedes-Benz,E-Class,Sommer,24348.301075268817
-Mercedes-Benz,E-Class,Winter,20404.921948912015
-Mercedes-Benz,G-Class,Fruehling,82446.15384615384
-Mercedes-Benz,G-Class,Sommer,86458.33333333333
-Mercedes-Benz,G-Class,Winter,77553.125
-Mercedes-Benz,GL-Class,Fruehling,30966.26875
-Mercedes-Benz,GL-Class,Sommer,33021.62311557789
-Mercedes-Benz,GL-Class,Winter,27219.817142857144
-Mercedes-Benz,GLA-Class,Sommer,32000.0
-Mercedes-Benz,GLK-Class,Fruehling,24112.607407407406
-Mercedes-Benz,GLK-Class,Sommer,25110.758389261744
-Mercedes-Benz,GLK-Class,Winter,25745.42660550459
-Mercedes-Benz,M-Class,Fruehling,17816.733870967742
-Mercedes-Benz,M-Class,Sommer,21072.54098360656
-Mercedes-Benz,M-Class,Winter,18917.632850241545
-Mercedes-Benz,ML55 AMG,Winter,3100.0
-Mercedes-Benz,R-Class,Fruehling,8480.612244897959
-Mercedes-Benz,R-Class,Sommer,10193.589743589744
-Mercedes-Benz,R-Class,Winter,10546.649484536083
-Mercedes-Benz,S-Class,Fruehling,27466.5
-Mercedes-Benz,S-Class,Sommer,34296.70484581498
-Mercedes-Benz,S-Class,Winter,25821.957520091848
-Mercedes-Benz,SL-Class,Fruehling,24370.89552238806
-Mercedes-Benz,SL-Class,Sommer,34770.94594594595
-Mercedes-Benz,SL-Class,Winter,31122.286821705427
-Mercedes-Benz,SLK-Class,Fruehling,19781.73076923077
-Mercedes-Benz,SLK-Class,Sommer,19223.214285714286
-Mercedes-Benz,SLK-Class,Winter,18839.45945945946
-Mercedes-Benz,SLS AMG,Sommer,126250.0
-Mercedes-Benz,SLS AMG,Winter,110900.0
-Mercedes-Benz,SLS AMG GT,Fruehling,156500.0
-Mercedes-Benz,Sprinter,Fruehling,23355.555555555555
-Mercedes-Benz,Sprinter,Sommer,27093.75
-Mercedes-Benz,Sprinter,Winter,26736.68888888889
-Mercury,Cougar,Fruehling,662.5
-Mercury,Cougar,Sommer,700.0
-Mercury,Cougar,Winter,891.6666666666666
-Mercury,Grand Marquis,Fruehling,2605.9322033898306
-Mercury,Grand Marquis,Sommer,3427.314814814815
-Mercury,Grand Marquis,Winter,3218.950177935943
-Mercury,Marauder,Sommer,4500.0
-Mercury,Marauder,Winter,9900.0
-Mercury,Mariner,Fruehling,6590.816326530612
-Mercury,Mariner,Sommer,6194.444444444444
-Mercury,Mariner,Winter,7088.674033149171
-Mercury,Mariner Hybrid,Fruehling,7550.0
-Mercury,Mariner Hybrid,Sommer,5700.0
-Mercury,Mariner Hybrid,Winter,6006.25
-Mercury,Milan,Fruehling,4789.7959183673465
-Mercury,Milan,Sommer,4217.857142857143
-Mercury,Milan,Winter,4777.118644067797
-Mercury,Milan Hybrid,Fruehling,9600.0
-Mercury,Milan Hybrid,Winter,9920.0
-Mercury,Montego,Fruehling,3010.0
-Mercury,Montego,Sommer,2691.6666666666665
-Mercury,Montego,Winter,3073.846153846154
-Mercury,Monterey,Fruehling,2200.0
-Mercury,Monterey,Sommer,1200.0
-Mercury,Monterey,Winter,2230.0
-Mercury,Mountaineer,Fruehling,4041.153846153846
-Mercury,Mountaineer,Sommer,3168.75
-Mercury,Mountaineer,Winter,4082.2580645161293
-Mercury,Mystique,Fruehling,500.0
-Mercury,Mystique,Winter,1400.0
-Mercury,Sable,Fruehling,931.8181818181819
-Mercury,Sable,Sommer,1198.611111111111
-Mercury,Sable,Winter,1862.4137931034484
-Mercury,Tracer,Fruehling,300.0
-Mercury,Tracer,Winter,316.6666666666667
-Mercury,Villager,Fruehling,1150.0
-Mercury,Villager,Sommer,1100.0
-Mercury,Villager,Winter,1200.0
-Mitsubishi,3000GT,Winter,2250.0
-Mitsubishi,Diamante,Fruehling,606.25
-Mitsubishi,Diamante,Sommer,812.5
-Mitsubishi,Diamante,Winter,1005.2631578947369
-Mitsubishi,Eclipse,Fruehling,3891.554054054054
-Mitsubishi,Eclipse,Sommer,3926.3636363636365
-Mitsubishi,Eclipse,Winter,4144.774590163935
-Mitsubishi,Eclipse Spyder,Fruehling,3807.1428571428573
-Mitsubishi,Eclipse Spyder,Sommer,4480.263157894737
-Mitsubishi,Eclipse Spyder,Winter,3476.3440860215055
-Mitsubishi,Endeavor,Fruehling,3657.1428571428573
-Mitsubishi,Endeavor,Sommer,3541.6666666666665
-Mitsubishi,Endeavor,Winter,3590.17094017094
-Mitsubishi,Galant,Fruehling,3736.2359550561796
-Mitsubishi,Galant,Sommer,4452.8125
-Mitsubishi,Galant,Winter,3632.4792243767315
-Mitsubishi,Lancer,Fruehling,8081.693989071038
-Mitsubishi,Lancer,Sommer,7642.672316384181
-Mitsubishi,Lancer,Winter,8022.030497592295
-Mitsubishi,Lancer Evolution,Fruehling,24566.666666666668
-Mitsubishi,Lancer Evolution,Sommer,23863.333333333332
-Mitsubishi,Lancer Evolution,Winter,22113.06818181818
-Mitsubishi,Lancer Sportback,Fruehling,8500.0
-Mitsubishi,Lancer Sportback,Sommer,9522.222222222223
-Mitsubishi,Lancer Sportback,Winter,10643.478260869566
-Mitsubishi,Mirage,Fruehling,7201.7441860465115
-Mitsubishi,Mirage,Sommer,8058.75
-Mitsubishi,Mirage,Winter,8121.230158730159
-Mitsubishi,Montero,Fruehling,2780.0
-Mitsubishi,Montero,Sommer,2716.6666666666665
-Mitsubishi,Montero,Winter,2790.7894736842104
-Mitsubishi,Montero Sport,Fruehling,1268.75
-Mitsubishi,Montero Sport,Sommer,1300.0
-Mitsubishi,Montero Sport,Winter,1343.495145631068
-Mitsubishi,Outlander,Fruehling,11812.025316455696
-Mitsubishi,Outlander,Sommer,11831.764705882353
-Mitsubishi,Outlander,Winter,12281.68168168168
-Mitsubishi,Outlander Sport,Fruehling,13386.153846153846
-Mitsubishi,Outlander Sport,Sommer,13307.432432432432
-Mitsubishi,Outlander Sport,Winter,13561.418685121107
-Mitsubishi,Raider,Fruehling,6566.666666666667
-Mitsubishi,Raider,Sommer,5100.0
-Mitsubishi,Raider,Winter,6641.666666666667
-Mitsubishi,i-MiEV,Fruehling,7275.0
-Mitsubishi,i-MiEV,Sommer,5383.333333333333
-Mitsubishi,i-MiEV,Winter,8620.0
-Nissan,200SX,Fruehling,650.0
-Nissan,200SX,Sommer,575.0
-Nissan,200SX,Winter,729.1666666666666
-Nissan,300ZX,Fruehling,375.0
-Nissan,350Z,Fruehling,9447.222222222223
-Nissan,350Z,Sommer,11726.923076923076
-Nissan,350Z,Winter,8610.76923076923
-Nissan,370Z,Fruehling,22300.0
-Nissan,370Z,Sommer,23289.772727272728
-Nissan,370Z,Winter,20603.73831775701
-Nissan,Altima,Fruehling,11442.738466757124
-Nissan,Altima,Sommer,11208.848541510844
-Nissan,Altima,Winter,11272.8154340836
-Nissan,Altima Hybrid,Fruehling,6228.125
-Nissan,Altima Hybrid,Sommer,7862.5
-Nissan,Altima Hybrid,Winter,7191.964285714285
-Nissan,Armada,Fruehling,16722.28125
-Nissan,Armada,Sommer,19016.080291970804
-Nissan,Armada,Winter,14828.104
-Nissan,Cube,Fruehling,8543.333333333334
-Nissan,Cube,Sommer,8182.258064516129
-Nissan,Cube,Winter,8100.62893081761
-Nissan,Frontier,Fruehling,15252.227722772277
-Nissan,Frontier,Sommer,15620.785388127853
-Nissan,Frontier,Winter,12005.661881977672
-Nissan,GT-R,Fruehling,75912.5
-Nissan,GT-R,Sommer,70816.66666666667
-Nissan,GT-R,Winter,72885.48387096774
-Nissan,Juke,Fruehling,15104.6875
-Nissan,Juke,Sommer,14532.051282051281
-Nissan,Juke,Winter,15043.141592920354
-Nissan,Leaf,Fruehling,9810.766961651918
-Nissan,Leaf,Sommer,9274.910394265233
-Nissan,Leaf,Winter,11595.285714285714
-Nissan,Maxima,Fruehling,13407.844167408726
-Nissan,Maxima,Sommer,13546.098294884654
-Nissan,Maxima,Winter,12502.66222479722
-Nissan,Murano,Fruehling,12850.961620469083
-Nissan,Murano,Sommer,12558.362445414847
-Nissan,Murano,Winter,12555.946530872056
-Nissan,Murano CrossCabriolet,Fruehling,20975.0
-Nissan,Murano CrossCabriolet,Sommer,31200.0
-Nissan,Murano CrossCabriolet,Winter,26441.666666666668
-Nissan,NV,Fruehling,13666.666666666666
-Nissan,NV,Sommer,14850.0
-Nissan,NV,Winter,15600.0
-Nissan,NV Cargo,Fruehling,20900.0
-Nissan,NV Cargo,Sommer,19160.0
-Nissan,NV Cargo,Winter,21433.823529411766
-Nissan,NV Passenger,Sommer,29000.0
-Nissan,NV Passenger,Winter,16950.0
-Nissan,NV200,Fruehling,17100.0
-Nissan,NV200,Sommer,16487.5
-Nissan,NV200,Winter,16160.0
-Nissan,Pathfinder,Fruehling,14692.64308681672
-Nissan,Pathfinder,Sommer,16134.624260355029
-Nissan,Pathfinder,Winter,13753.434656340754
-Nissan,Quest,Fruehling,10957.911392405063
-Nissan,Quest,Sommer,11706.185567010309
-Nissan,Quest,Winter,8846.841688654353
-Nissan,Rogue,Fruehling,13892.485971943888
-Nissan,Rogue,Sommer,13826.632216014897
-Nissan,Rogue,Winter,13545.706103286386
-Nissan,Rogue Select,Fruehling,14840.625
-Nissan,Rogue Select,Sommer,15555.0
-Nissan,Rogue Select,Winter,15058.823529411764
-Nissan,Sentra,Fruehling,9355.115342763875
-Nissan,Sentra,Sommer,9139.318442153493
-Nissan,Sentra,Winter,8316.41975308642
-Nissan,Titan,Fruehling,14256.578947368422
-Nissan,Titan,Sommer,15951.978417266188
-Nissan,Titan,Winter,12176.109936575052
-Nissan,Truck,Fruehling,1250.0
-Nissan,Truck,Sommer,900.0
-Nissan,Truck,Winter,1291.6666666666667
-Nissan,Versa,Fruehling,8069.815195071868
-Nissan,Versa,Sommer,7507.825991189427
-Nissan,Versa,Winter,7522.571428571428
-Nissan,Versa Note,Fruehling,10152.475247524753
-Nissan,Versa Note,Sommer,9665.104166666666
-Nissan,Versa Note,Winter,10529.787037037036
-Nissan,Xterra,Fruehling,9690.745856353591
-Nissan,Xterra,Sommer,10138.729323308271
-Nissan,Xterra,Winter,8319.727858293076
-Oldsmobile,Achieva,Fruehling,500.0
-Oldsmobile,Alero,Fruehling,763.2352941176471
-Oldsmobile,Alero,Sommer,862.5
-Oldsmobile,Alero,Winter,1002.8947368421053
-Oldsmobile,Aurora,Fruehling,850.0
-Oldsmobile,Aurora,Sommer,616.6666666666666
-Oldsmobile,Aurora,Winter,1232.5
-Oldsmobile,Bravada,Fruehling,1383.3333333333333
-Oldsmobile,Bravada,Sommer,1312.5
-Oldsmobile,Bravada,Winter,1219.8529411764705
-Oldsmobile,Cutlass,Fruehling,1000.0
-Oldsmobile,Cutlass,Sommer,675.0
-Oldsmobile,Cutlass,Winter,485.7142857142857
-Oldsmobile,Cutlass Ciera,Fruehling,343.75
-Oldsmobile,Cutlass Ciera,Sommer,375.0
-Oldsmobile,Cutlass Ciera,Winter,300.0
-Oldsmobile,Cutlass Supreme,Fruehling,450.0
-Oldsmobile,Cutlass Supreme,Sommer,441.6666666666667
-Oldsmobile,Cutlass Supreme,Winter,350.0
-Oldsmobile,Eighty-Eight,Fruehling,575.0
-Oldsmobile,Eighty-Eight,Sommer,825.0
-Oldsmobile,Eighty-Eight,Winter,937.5
-Oldsmobile,Eighty-Eight Royale,Fruehling,250.0
-Oldsmobile,Eighty-Eight Royale,Winter,525.0
-Oldsmobile,Intrigue,Fruehling,860.7142857142857
-Oldsmobile,Intrigue,Sommer,1365.0
-Oldsmobile,Intrigue,Winter,817.1052631578947
-Oldsmobile,Regency,Winter,300.0
-Oldsmobile,Silhouette,Fruehling,1258.3333333333333
-Oldsmobile,Silhouette,Sommer,637.5
-Oldsmobile,Silhouette,Winter,1065.8333333333333
-Plymouth,Breeze,Winter,575.0
-Plymouth,Neon,Fruehling,400.0
-Plymouth,Neon,Winter,470.0
-Plymouth,Prowler,Fruehling,16050.0
-Plymouth,Prowler,Sommer,25050.0
-Plymouth,Prowler,Winter,19737.5
-Pontiac,Aztek,Fruehling,4000.0
-Pontiac,Aztek,Winter,786.3636363636364
-Pontiac,Bonneville,Fruehling,1502.7777777777778
-Pontiac,Bonneville,Sommer,1635.7142857142858
-Pontiac,Bonneville,Winter,1538.9175257731958
-Pontiac,Firebird,Fruehling,6215.384615384615
-Pontiac,Firebird,Sommer,4733.333333333333
-Pontiac,Firebird,Winter,2648.6486486486488
-Pontiac,G3,Fruehling,4416.666666666667
-Pontiac,G3,Sommer,4325.0
-Pontiac,G3,Winter,4525.0
-Pontiac,G5,Fruehling,3068.0
-Pontiac,G5,Sommer,3466.6666666666665
-Pontiac,G5,Winter,3641.9540229885056
-Pontiac,G6,Fruehling,4381.8561872909695
-Pontiac,G6,Sommer,4209.466019417476
-Pontiac,G6,Winter,4576.011680143755
-Pontiac,G8,Fruehling,13584.21052631579
-Pontiac,G8,Sommer,13981.25
-Pontiac,G8,Winter,11608.620689655172
-Pontiac,GTO,Fruehling,11400.0
-Pontiac,GTO,Sommer,12345.0
-Pontiac,GTO,Winter,8588.461538461539
-Pontiac,Grand Am,Fruehling,1269.1176470588234
-Pontiac,Grand Am,Sommer,1088.5714285714287
-Pontiac,Grand Am,Winter,1241.8810289389069
-Pontiac,Grand Prix,Fruehling,2444.705882352941
-Pontiac,Grand Prix,Sommer,2660.294117647059
-Pontiac,Grand Prix,Winter,2585.206896551724
-Pontiac,Montana,Fruehling,1513.6363636363637
-Pontiac,Montana,Sommer,1703.125
-Pontiac,Montana,Winter,1650.9433962264152
-Pontiac,Montana SV6,Sommer,2800.0
-Pontiac,Montana SV6,Winter,3016.6666666666665
-Pontiac,Solstice,Fruehling,7038.0952380952385
-Pontiac,Solstice,Sommer,6481.25
-Pontiac,Solstice,Winter,6850.0
-Pontiac,Sunfire,Fruehling,810.9375
-Pontiac,Sunfire,Sommer,787.5
-Pontiac,Sunfire,Winter,1077.7027027027027
-Pontiac,Torrent,Fruehling,4844.33962264151
-Pontiac,Torrent,Sommer,4980.30303030303
-Pontiac,Torrent,Winter,4729.245283018868
-Pontiac,Vibe,Fruehling,4156.578947368421
-Pontiac,Vibe,Sommer,5080.0
-Pontiac,Vibe,Winter,4173.381294964029
-Porsche,911,Fruehling,71443.10344827586
-Porsche,911,Sommer,71311.42857142857
-Porsche,911,Winter,64555.42168674699
-Porsche,Boxster,Fruehling,15521.42857142857
-Porsche,Boxster,Sommer,28602.903846153848
-Porsche,Boxster,Winter,20518.61313868613
-Porsche,Cayenne,Fruehling,26901.26582278481
-Porsche,Cayenne,Sommer,35175.44642857143
-Porsche,Cayenne,Winter,25631.768953068593
-Porsche,Cayman,Fruehling,42691.666666666664
-Porsche,Cayman,Sommer,35413.333333333336
-Porsche,Cayman,Winter,30618.42105263158
-Porsche,Cayman S,Sommer,29700.0
-Porsche,Cayman S,Winter,22200.0
-Porsche,Macan,Fruehling,76000.0
-Porsche,Macan,Sommer,57000.0
-Porsche,Macan,Winter,55000.0
-Porsche,Panamera,Fruehling,54939.393939393936
-Porsche,Panamera,Sommer,55028.16901408451
-Porsche,Panamera,Winter,55967.54385964912
-Ram,1500,Fruehling,23731.666666666668
-Ram,1500,Sommer,23687.75684931507
-Ram,1500,Winter,22090.639507620162
-Ram,2500,Fruehling,32128.007518796992
-Ram,2500,Sommer,33665.48387096774
-Ram,2500,Winter,33359.70425138632
-Ram,3500,Fruehling,32761.627906976744
-Ram,3500,Sommer,34809.782608695656
-Ram,3500,Winter,35175.886524822694
-Ram,C/V Cargo Van,Fruehling,7050.0
-Ram,C/V Cargo Van,Sommer,6670.833333333333
-Ram,C/V Cargo Van,Winter,7565.625
-Ram,C/V Tradesman,Fruehling,7180.0
-Ram,C/V Tradesman,Sommer,7806.666666666667
-Ram,C/V Tradesman,Winter,11450.0
-Ram,CV Tradesman,Fruehling,14550.0
-Ram,CV Tradesman,Winter,16475.0
-Ram,Dakota,Fruehling,10475.0
-Ram,Dakota,Sommer,12775.0
-Ram,Dakota,Winter,12383.333333333334
-Ram,Promaster Cargo Van,Fruehling,23857.14285714286
-Ram,Promaster Cargo Van,Sommer,23057.14285714286
-Ram,Promaster Cargo Van,Winter,22695.714285714286
-Rolls-Royce,Ghost,Fruehling,148750.0
-Rolls-Royce,Ghost,Sommer,157416.66666666666
-Rolls-Royce,Ghost,Winter,152828.57142857142
-Saab,9-2X,Sommer,3833.3333333333335
-Saab,9-2X,Winter,4085.714285714286
-Saab,9-3,Fruehling,2791.0
-Saab,9-3,Sommer,3788.8888888888887
-Saab,9-3,Winter,3419.351464435146
-Saab,9-5,Fruehling,2932.1428571428573
-Saab,9-5,Sommer,6725.0
-Saab,9-5,Winter,3119.6428571428573
-Saab,9-7X,Fruehling,4455.0
-Saab,9-7X,Sommer,5062.5
-Saab,9-7X,Winter,5018.181818181818
-Saturn,Astra,Fruehling,4010.0
-Saturn,Astra,Sommer,3315.0
-Saturn,Astra,Winter,3945.3125
-Saturn,Aura,Fruehling,4499.444444444444
-Saturn,Aura,Sommer,4525.4098360655735
-Saturn,Aura,Winter,4613.552188552188
-Saturn,Aura Hybrid,Winter,3600.0
-Saturn,ION,Fruehling,2068.0
-Saturn,ION,Sommer,1957.142857142857
-Saturn,ION,Winter,2052.0569620253164
-Saturn,L-Series,Fruehling,988.5714285714286
-Saturn,L-Series,Sommer,1020.3125
-Saturn,L-Series,Winter,1234.659090909091
-Saturn,L300,Fruehling,1380.0
-Saturn,L300,Sommer,600.0
-Saturn,L300,Winter,2073.809523809524
-Saturn,Outlook,Fruehling,7379.411764705882
-Saturn,Outlook,Sommer,6882.4324324324325
-Saturn,Outlook,Winter,7859.625668449198
-Saturn,Relay,Fruehling,2023.076923076923
-Saturn,Relay,Sommer,1842.857142857143
-Saturn,Relay,Winter,2420.0
-Saturn,S-Series,Fruehling,793.2692307692307
-Saturn,S-Series,Sommer,677.34375
-Saturn,S-Series,Winter,759.437751004016
-Saturn,Sky,Fruehling,9040.90909090909
-Saturn,Sky,Sommer,7490.909090909091
-Saturn,Sky,Winter,8619.23076923077
-Saturn,VUE,Fruehling,3324.8275862068967
-Saturn,VUE,Sommer,3609.5454545454545
-Saturn,VUE,Winter,3408.7434094903338
-Saturn,VUE Hybrid,Fruehling,7150.0
-Saturn,VUE Hybrid,Winter,6310.0
-Scion,FR-S,Fruehling,18025.0
-Scion,FR-S,Sommer,18611.53846153846
-Scion,FR-S,Winter,17903.703703703704
-Scion,iQ,Fruehling,9034.782608695652
-Scion,iQ,Sommer,8420.0
-Scion,iQ,Winter,9148.305084745763
-Scion,tC,Fruehling,9656.140350877193
-Scion,tC,Sommer,9589.097744360903
-Scion,tC,Winter,9106.004901960785
-Scion,xA,Fruehling,2483.3333333333335
-Scion,xA,Sommer,3480.0
-Scion,xA,Winter,2778.125
-Scion,xB,Fruehling,8573.529411764706
-Scion,xB,Sommer,7948.863636363636
-Scion,xB,Winter,7785.153583617747
-Scion,xD,Fruehling,9219.444444444445
-Scion,xD,Sommer,8779.268292682927
-Scion,xD,Winter,9507.978723404256
-Subaru,B9 Tribeca,Fruehling,6484.615384615385
-Subaru,B9 Tribeca,Sommer,4662.5
-Subaru,B9 Tribeca,Winter,6427.586206896552
-Subaru,BRZ,Fruehling,20116.666666666668
-Subaru,BRZ,Sommer,19800.0
-Subaru,BRZ,Winter,19576.5625
-Subaru,Baja,Fruehling,5885.0
-Subaru,Baja,Sommer,4741.666666666667
-Subaru,Baja,Winter,7480.7692307692305
-Subaru,Forester,Fruehling,16153.535353535353
-Subaru,Forester,Sommer,19439.516129032258
-Subaru,Forester,Winter,16779.68460111317
-Subaru,Impreza,Fruehling,12237.5
-Subaru,Impreza,Sommer,14590.873015873016
-Subaru,Impreza,Winter,13413.26050420168
-Subaru,Impreza WRX,Fruehling,25855.555555555555
-Subaru,Impreza WRX,Sommer,24165.217391304348
-Subaru,Impreza WRX,Winter,26717.69230769231
-Subaru,Legacy,Fruehling,12618.221238938053
-Subaru,Legacy,Sommer,13257.894736842105
-Subaru,Legacy,Winter,13174.093959731543
-Subaru,Outback,Fruehling,13553.623188405798
-Subaru,Outback,Sommer,17629.72440944882
-Subaru,Outback,Winter,16074.301643192488
-Subaru,Tribeca,Fruehling,12565.0
-Subaru,Tribeca,Sommer,17025.0
-Subaru,Tribeca,Winter,15135.0
-Subaru,WRX,Fruehling,30050.0
-Subaru,WRX,Sommer,29861.904761904763
-Subaru,WRX,Winter,29550.0
-Subaru,XV Crosstrek,Fruehling,20550.0
-Subaru,XV Crosstrek,Sommer,20625.0
-Subaru,XV Crosstrek,Winter,21196.410256410258
-Suzuki,Aerio,Fruehling,2050.0
-Suzuki,Aerio,Sommer,1600.0
-Suzuki,Aerio,Winter,1200.0
-Suzuki,Equator,Winter,14850.0
-Suzuki,Esteem,Sommer,400.0
-Suzuki,Esteem,Winter,650.0
-Suzuki,Forenza,Fruehling,1318.75
-Suzuki,Forenza,Sommer,1411.2903225806451
-Suzuki,Forenza,Winter,1599.53125
-Suzuki,Grand Vitara,Fruehling,5735.4838709677415
-Suzuki,Grand Vitara,Sommer,5712.5
-Suzuki,Grand Vitara,Winter,5693.897637795276
-Suzuki,Kizashi,Fruehling,8657.142857142857
-Suzuki,Kizashi,Sommer,7175.0
-Suzuki,Kizashi,Winter,8862.5
-Suzuki,Reno,Fruehling,1800.0
-Suzuki,Reno,Sommer,1450.0
-Suzuki,Reno,Winter,1700.0
-Suzuki,SX4,Fruehling,5319.354838709677
-Suzuki,SX4,Sommer,5070.212765957447
-Suzuki,SX4,Winter,5084.469696969697
-Suzuki,Sidekick,Fruehling,1000.0
-Suzuki,Verona,Fruehling,2050.0
-Suzuki,Verona,Sommer,1700.0
-Suzuki,Verona,Winter,1738.3333333333333
-Suzuki,Vitara,Fruehling,2600.0
-Suzuki,Vitara,Winter,1016.6666666666666
-Suzuki,XL-7,Fruehling,1331.8181818181818
-Suzuki,XL-7,Sommer,1650.0
-Suzuki,XL-7,Winter,2281.122448979592
-Suzuki,XL7,Fruehling,4321.153846153846
-Suzuki,XL7,Sommer,4471.739130434783
-Suzuki,XL7,Winter,4666.888888888889
-Tesla,Model S,Fruehling,61208.333333333336
-Tesla,Model S,Sommer,62406.25
-Tesla,Model S,Winter,75083.33333333333
-Toyota,4Runner,Fruehling,15413.194444444445
-Toyota,4Runner,Sommer,18405.20297029703
-Toyota,4Runner,Winter,14903.570881226053
-Toyota,Avalon,Fruehling,11377.047619047618
-Toyota,Avalon,Sommer,12155.650273224044
-Toyota,Avalon,Winter,10100.2765625
-Toyota,Avalon Hybrid,Fruehling,23900.0
-Toyota,Avalon Hybrid,Sommer,23826.923076923078
-Toyota,Avalon Hybrid,Winter,27389.285714285714
-Toyota,Camry,Fruehling,11482.234010152284
-Toyota,Camry,Sommer,11769.682546374368
-Toyota,Camry,Winter,11214.011558156548
-Toyota,Camry Hybrid,Fruehling,12862.077777777778
-Toyota,Camry Hybrid,Sommer,14076.966292134832
-Toyota,Camry Hybrid,Winter,13981.0
-Toyota,Camry Solara,Fruehling,4994.262295081967
-Toyota,Camry Solara,Sommer,4947.368421052632
-Toyota,Camry Solara,Winter,4765.570175438596
-Toyota,Celica,Fruehling,1878.5714285714287
-Toyota,Celica,Sommer,2465.0
-Toyota,Celica,Winter,2292.622950819672
-Toyota,Corolla,Fruehling,9755.215517241379
-Toyota,Corolla,Sommer,9521.174012158055
-Toyota,Corolla,Winter,9302.256054549729
+Honda,accord,Winter,4645.833333333333
+Nissan,Altima,Fruehling,11454.612244897959
+Nissan,Altima,Sommer,11650.0
+Nissan,Altima,Winter,11838.385771421646
+Nissan,Altima Hybrid,Fruehling,6700.0
+Nissan,Altima Hybrid,Winter,7303.409090909091
+Nissan,Armada,Fruehling,14400.0
+Nissan,Armada,Sommer,13400.0
+Nissan,Armada,Winter,12598.99421965318
+Nissan,Juke,Fruehling,16000.0
+Nissan,Juke,Winter,15158.379888268157
+Nissan,Leaf,Fruehling,10972.340425531915
+Nissan,Leaf,Sommer,10992.857142857143
+Nissan,Leaf,Winter,11565.256140350877
+Nissan,Maxima,Fruehling,13460.81081081081
+Nissan,Maxima,Sommer,12250.0
+Nissan,Maxima,Winter,13836.71622130222
+Nissan,Murano,Fruehling,11900.0
+Nissan,Murano,Sommer,16000.0
+Nissan,Murano,Winter,12523.644736842105
+Nissan,Murano CrossCabriolet,Winter,19235.714285714286
+Nissan,NV200,Winter,15663.636363636364
+Nissan,Pathfinder,Fruehling,17585.29411764706
+Nissan,Pathfinder,Sommer,24000.0
+Nissan,Pathfinder,Winter,13242.899843505478
+Nissan,Quest,Fruehling,12708.333333333334
+Nissan,Quest,Sommer,2600.0
+Nissan,Quest,Winter,9878.673640167364
+Nissan,Rogue,Fruehling,13355.555555555555
+Nissan,Rogue,Sommer,13000.0
+Nissan,Rogue,Winter,13661.311688311689
+Nissan,Rogue Select,Winter,15606.666666666666
+Nissan,Sentra,Fruehling,8745.454545454546
+Nissan,Sentra,Sommer,11392.857142857143
+Nissan,Sentra,Winter,9048.90118577075
+Nissan,Versa,Fruehling,7917.857142857143
+Nissan,Versa,Sommer,8050.0
+Nissan,Versa,Winter,7579.597807757167
+Nissan,Versa Note,Fruehling,9050.0
+Nissan,Versa Note,Winter,10411.899193548386
+Nissan,Xterra,Fruehling,13800.0
+Nissan,Xterra,Sommer,20100.0
+Nissan,Xterra,Winter,9386.869879518072
+Toyota,4Runner,Fruehling,8986.71875
+Toyota,4Runner,Sommer,9000.0
+Toyota,4Runner,Winter,12573.872437357631
+Toyota,Avalon,Fruehling,11179.310344827587
+Toyota,Avalon,Sommer,4100.0
+Toyota,Avalon,Winter,11500.419958419958
+Toyota,Avalon Hybrid,Fruehling,20700.0
+Toyota,Avalon Hybrid,Winter,24600.0
+Toyota,Camry,Fruehling,12123.212045169385
+Toyota,Camry,Sommer,12850.0
+Toyota,Camry,Winter,12066.184111997396
+Toyota,Camry Hybrid,Fruehling,13046.59090909091
+Toyota,Camry Hybrid,Winter,14028.29457364341
+Toyota,Celica,Fruehling,3233.3333333333335
+Toyota,Celica,Winter,3406.521739130435
+Toyota,Corolla,Fruehling,10327.39099099099
+Toyota,Corolla,Sommer,12766.666666666666
+Toyota,Corolla,Winter,9869.794211364844
 Toyota,ECHO,Fruehling,2750.0
-Toyota,ECHO,Sommer,1375.0
-Toyota,ECHO,Winter,2161.1111111111113
-Toyota,FJ Cruiser,Fruehling,19588.28125
-Toyota,FJ Cruiser,Sommer,21333.59375
-Toyota,FJ Cruiser,Winter,18265.16393442623
-Toyota,Highlander,Fruehling,15983.803738317756
-Toyota,Highlander,Sommer,16927.30592105263
-Toyota,Highlander,Winter,14980.366095581605
-Toyota,Highlander Hybrid,Fruehling,11712.90322580645
-Toyota,Highlander Hybrid,Sommer,13548.076923076924
-Toyota,Highlander Hybrid,Winter,13584.929078014184
-Toyota,Land Cruiser,Fruehling,16035.714285714286
-Toyota,Land Cruiser,Sommer,24165.0
-Toyota,Land Cruiser,Winter,21779.80769230769
-Toyota,MR2 Spyder,Fruehling,4300.0
-Toyota,MR2 Spyder,Sommer,3733.3333333333335
-Toyota,MR2 Spyder,Winter,3037.5
-Toyota,Matrix,Fruehling,5556.25
-Toyota,Matrix,Sommer,5180.7692307692305
-Toyota,Matrix,Winter,5603.571428571428
-Toyota,Paseo,Fruehling,150.0
-Toyota,Pickup,Winter,1614.2857142857142
-Toyota,Prius,Fruehling,10175.705056179775
-Toyota,Prius,Sommer,10039.068047337278
-Toyota,Prius,Winter,10107.87795992714
-Toyota,Prius Plug-in,Fruehling,16310.0
-Toyota,Prius Plug-in,Sommer,16573.076923076922
+Toyota,ECHO,Winter,3168.75
+Toyota,FJ Cruiser,Fruehling,16247.727272727272
+Toyota,FJ Cruiser,Sommer,14725.0
+Toyota,FJ Cruiser,Winter,15335.46511627907
+Toyota,Highlander,Fruehling,14454.347826086956
+Toyota,Highlander,Sommer,12450.0
+Toyota,Highlander,Winter,13548.830210772834
+Toyota,Highlander Hybrid,Fruehling,12446.153846153846
+Toyota,Highlander Hybrid,Sommer,21350.0
+Toyota,Highlander Hybrid,Winter,12058.541666666666
+Toyota,Land Cruiser,Fruehling,12566.666666666666
+Toyota,Land Cruiser,Winter,13235.714285714286
+Toyota,Matrix,Fruehling,8809.09090909091
+Toyota,Matrix,Winter,7417.067307692308
+Toyota,Prius,Fruehling,10555.792682926829
+Toyota,Prius,Sommer,19400.0
+Toyota,Prius,Winter,10572.79702970297
+Toyota,Prius Plug-in,Fruehling,16820.0
 Toyota,Prius Plug-in,Winter,17200.0
-Toyota,Prius c,Fruehling,13002.5
-Toyota,Prius c,Sommer,12407.142857142857
-Toyota,Prius c,Winter,12898.529411764706
-Toyota,Prius v,Fruehling,16613.333333333332
-Toyota,Prius v,Sommer,15745.238095238095
-Toyota,Prius v,Winter,17496.875
-Toyota,RAV4,Fruehling,14764.38961038961
-Toyota,RAV4,Sommer,14731.225806451614
-Toyota,RAV4,Winter,14104.808149405773
-Toyota,Sequoia,Fruehling,19127.97619047619
-Toyota,Sequoia,Sommer,22273.333333333332
-Toyota,Sequoia,Winter,14618.7306501548
-Toyota,Sienna,Fruehling,14947.092369477912
-Toyota,Sienna,Sommer,14864.417661097852
-Toyota,Sienna,Winter,12598.242003621002
-Toyota,T100,Fruehling,1725.0
-Toyota,T100,Sommer,2550.0
-Toyota,Tacoma,Fruehling,21107.317073170732
-Toyota,Tacoma,Sommer,22383.193965517243
-Toyota,Tacoma,Winter,20798.694029850747
-Toyota,Tercel,Fruehling,750.0
-Toyota,Tercel,Winter,547.0588235294117
-Toyota,Tundra,Fruehling,21216.58653846154
-Toyota,Tundra,Sommer,23466.745535714286
-Toyota,Tundra,Winter,20134.80528511822
-Toyota,Venza,Fruehling,16446.71052631579
-Toyota,Venza,Sommer,17114.87837837838
-Toyota,Venza,Winter,16461.77981651376
-Toyota,Yaris,Fruehling,7673.3644859813085
-Toyota,Yaris,Sommer,7371.6809523809525
-Toyota,Yaris,Winter,7577.278858625162
-Volkswagen,Beetle,Fruehling,12314.285714285714
-Volkswagen,Beetle,Sommer,12886.538461538461
-Volkswagen,Beetle,Winter,12740.371621621622
-Volkswagen,Beetle Convertible,Fruehling,18383.333333333332
-Volkswagen,Beetle Convertible,Sommer,18364.285714285714
-Volkswagen,Beetle Convertible,Winter,17822.058823529413
-Volkswagen,CC,Fruehling,13946.067415730337
-Volkswagen,CC,Sommer,14467.013888888889
-Volkswagen,CC,Winter,12984.148571428572
-Volkswagen,Cabrio,Fruehling,1458.3333333333333
-Volkswagen,Cabrio,Sommer,1666.6666666666667
-Volkswagen,Cabrio,Winter,1200.0
-Volkswagen,Eos,Fruehling,10766.666666666666
-Volkswagen,Eos,Sommer,12469.047619047618
-Volkswagen,Eos,Winter,11526.106194690265
-Volkswagen,EuroVan,Sommer,2000.0
-Volkswagen,EuroVan,Winter,3100.0
-Volkswagen,GLI,Fruehling,10868.75
-Volkswagen,GLI,Sommer,12692.307692307691
-Volkswagen,GLI,Winter,12394.285714285714
-Volkswagen,GTI,Fruehling,9359.420289855072
-Volkswagen,GTI,Sommer,11058.196721311475
-Volkswagen,GTI,Winter,10417.953667953669
-Volkswagen,Golf,Fruehling,8207.843137254902
-Volkswagen,Golf,Sommer,8693.442622950819
-Volkswagen,Golf,Winter,9483.742331288344
-Volkswagen,Golf GTI,Fruehling,22250.0
-Volkswagen,Golf GTI,Sommer,19990.0
-Volkswagen,Golf GTI,Winter,22725.0
-Volkswagen,Golf R,Fruehling,25650.0
-Volkswagen,Golf R,Sommer,25437.5
-Volkswagen,Golf R,Winter,25770.0
-Volkswagen,Jetta,Fruehling,7908.160442600277
-Volkswagen,Jetta,Sommer,7931.094955489614
-Volkswagen,Jetta,Winter,7540.951838235294
-Volkswagen,Jetta GLI,Fruehling,18250.0
-Volkswagen,Jetta GLI,Sommer,18175.0
-Volkswagen,Jetta GLI,Winter,18146.296296296296
-Volkswagen,Jetta Hybrid,Fruehling,14550.0
-Volkswagen,Jetta Hybrid,Sommer,15550.0
-Volkswagen,Jetta Hybrid,Winter,15879.166666666666
-Volkswagen,Jetta SportWagen,Fruehling,13937.5
-Volkswagen,Jetta SportWagen,Sommer,13742.045454545454
-Volkswagen,Jetta SportWagen,Winter,13556.701030927836
-Volkswagen,New Beetle,Fruehling,3697.4137931034484
-Volkswagen,New Beetle,Sommer,3538.095238095238
-Volkswagen,New Beetle,Winter,3496.090909090909
-Volkswagen,Passat,Fruehling,9138.447311827957
-Volkswagen,Passat,Sommer,10996.166666666666
-Volkswagen,Passat,Winter,9068.159535129424
-Volkswagen,Phaeton,Fruehling,5800.0
-Volkswagen,Phaeton,Sommer,6650.0
-Volkswagen,Phaeton,Winter,6850.0
-Volkswagen,R32,Fruehling,11000.0
-Volkswagen,R32,Sommer,11950.0
-Volkswagen,R32,Winter,10287.5
-Volkswagen,Rabbit,Fruehling,3872.222222222222
-Volkswagen,Rabbit,Sommer,4478.571428571428
-Volkswagen,Rabbit,Winter,4807.894736842105
-Volkswagen,Routan,Fruehling,9615.78947368421
-Volkswagen,Routan,Sommer,9454.545454545454
-Volkswagen,Routan,Winter,9761.832061068702
-Volkswagen,Tiguan,Fruehling,13234.666666666666
-Volkswagen,Tiguan,Sommer,14158.05357142857
-Volkswagen,Tiguan,Winter,14319.965870307167
-Volkswagen,Touareg,Fruehling,15480.76923076923
-Volkswagen,Touareg,Sommer,15505.434782608696
-Volkswagen,Touareg,Winter,12160.552763819096
-Volkswagen,Touareg 2,Fruehling,10937.5
-Volkswagen,Touareg 2,Sommer,11840.0
-Volkswagen,Touareg 2,Winter,10317.64705882353
-Volvo,850,Fruehling,440.0
-Volvo,850,Sommer,400.0
-Volvo,850,Winter,475.0
-Volvo,940,Sommer,700.0
-Volvo,940,Winter,700.0
-Volvo,960,Fruehling,375.0
-Volvo,960,Winter,520.0
-Volvo,C30,Fruehling,10150.0
-Volvo,C30,Sommer,10650.0
-Volvo,C30,Winter,12189.130434782608
-Volvo,C70,Fruehling,11733.620689655172
-Volvo,C70,Sommer,14381.047619047618
-Volvo,C70,Winter,9967.333333333334
-Volvo,S40,Fruehling,3958.846153846154
-Volvo,S40,Sommer,3560.964912280702
-Volvo,S40,Winter,3684.4897959183672
-Volvo,S60,Fruehling,14525.0
-Volvo,S60,Sommer,13910.46875
-Volvo,S60,Winter,11997.357019064124
-Volvo,S70,Fruehling,744.4444444444445
-Volvo,S70,Sommer,893.75
-Volvo,S70,Winter,754.4117647058823
-Volvo,S80,Fruehling,5013.04347826087
-Volvo,S80,Sommer,7283.064516129032
-Volvo,S80,Winter,5197.413793103448
-Volvo,S90,Fruehling,1700.0
-Volvo,S90,Sommer,900.0
-Volvo,S90,Winter,430.0
-Volvo,V40,Fruehling,1100.0
-Volvo,V40,Sommer,1166.6666666666667
-Volvo,V40,Winter,1960.7142857142858
-Volvo,V50,Fruehling,6450.0
-Volvo,V50,Sommer,4400.0
-Volvo,V50,Winter,6384.482758620689
-Volvo,V60,Fruehling,25910.869565217392
-Volvo,V60,Sommer,23596.428571428572
-Volvo,V60,Winter,28713.88888888889
-Volvo,V70,Fruehling,1676.7857142857142
-Volvo,V70,Sommer,1608.8235294117646
-Volvo,V70,Winter,2089.4736842105262
-Volvo,XC,Fruehling,1633.3333333333333
-Volvo,XC,Sommer,1100.0
-Volvo,XC,Winter,1970.5882352941176
-Volvo,XC60,Fruehling,25093.42105263158
-Volvo,XC60,Sommer,25367.777777777777
-Volvo,XC60,Winter,23386.38613861386
-Volvo,XC70,Fruehling,15265.625
-Volvo,XC70,Sommer,17275.0
-Volvo,XC70,Winter,13248.295454545454
-Volvo,XC90,Fruehling,8028.7037037037035
-Volvo,XC90,Sommer,10721.91011235955
-Volvo,XC90,Winter,8457.051282051281
-smart,fortwo,Fruehling,6042.465753424657
-smart,fortwo,Sommer,5863.953488372093
-smart,fortwo,Winter,6841.319444444444
+Toyota,Prius c,Fruehling,13216.666666666666
+Toyota,Prius c,Winter,12901.666666666666
+Toyota,RAV4,Fruehling,14887.612612612613
+Toyota,RAV4,Sommer,12483.333333333334
+Toyota,RAV4,Winter,14313.918220084186
+Toyota,Sequoia,Fruehling,11662.0
+Toyota,Sequoia,Winter,9866.06334841629
+Toyota,Sienna,Fruehling,13840.798245614034
+Toyota,Sienna,Sommer,16400.0
+Toyota,Sienna,Winter,12612.943344709898
+Toyota,Yaris,Fruehling,7219.354838709677
+Toyota,Yaris,Winter,7299.138111888112
