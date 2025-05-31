@@ -18,7 +18,7 @@ Das Random-Forest-Modell liefert auf dem Testset eine MAE von 921,82, eine RMSE 
 | [Kaggle](https://www.kaggle.com/datasets/zaynalabidin/car-sales-prices) | year, make, model, trim, body, transmission, vin, state, condition, odometer, color, interior, seller, mmr, sellingprice, saledate |
 | [Kaggle](https://www.kaggle.com/datasets/akk26001/us-and-canada-states)     | StateCode, StateName, Region, AlternateName |
 
-Anfangs wurde für die Staaten die Quelle [Kaggle](https://www.kaggle.com/datasets/omer2040/usa-states-to-region) herangezogen. Da dieses Dataset jedoch nur US-Bundesstaaten enthält und keine kanadischen Provinzen abdeckt, kam anschliessend eine alternative Datenquelle zum Einsatz. Einen ersten Test mit diesem Datensatz finden Sie in diesem [Notebook](z_archive/data/V1_01_data_preprocessing_and_ingestion.ipynb).
+Anfangs wurde für die Staaten die verlinkte Quelle von [Kaggle](https://www.kaggle.com/datasets/omer2040/usa-states-to-region) herangezogen. Da dieses Dataset jedoch nur US-Bundesstaaten enthält und keine kanadischen Provinzen abdeckt, kam anschliessend eine alternative Datenquelle zum Einsatz. Einen ersten Test mit diesem Datensatz finden Sie in diesem [Notebook](z_archive/V1_01_data_preprocessing_and_ingestion.ipynb).
 
 ## Features Created
 
